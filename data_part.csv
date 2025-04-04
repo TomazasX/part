@@ -1,114 +1,114 @@
-﻿Kodas:;Pavadinimas:;mato vnt:;Ilgis:;Kaina:;Paveikslėlio adresas:;Spalvos RAL;Svoris:;Filtras:;;
-7337;"Lietlovis ""GIGA-XS""(7337)";m;"4.05;5.05;6.05;7.05";58,94;https://www.sistemax.lt/uploads/images/Part/7337.png;"7016; 8017";6360;Stoginės;;
-7785;"Lietlovis ""Eco XS""(7785)";m;"6.05;7.05";33,93;https://www.sistemax.lt/uploads/images/Part/7785.png;"7016; 8017";3660;Stoginės;;
-7339;Sienos profilis(7339);m;"4.05;5.05;6.05;7.05";19,23;https://www.sistemax.lt/api/Part_sketch/Sieninis.png;"7016; 8017";2080;Stoginės;;
-7338;"Dangtelis ""click""(7338)";m;5.70;6,28;https://www.sistemax.lt/api/Part_sketch/7338.png;"7016; 8017";680;Stoginės;;
-7427;Lietlovio (Giga-XS) dangtelis(7427);m;7.10;15,65;https://www.sistemax.lt/api/Part_sketch/7427.png;"7016; 8017";1690;Stoginės;;
-7060;Prispaudėjo dangtelis(7060);m;"6.00;7.00";2,32;https://www.sistemax.lt/api/Part_sketch/7060.png;"7016; 8017";250;Stoginės;;
-7061;Prispaudėjo šoninis dangtelis(7061);m;"4.00;7.00";3,71;https://www.sistemax.lt/api/Part_sketch/7061-OK-.wmf;"7016; 8017";400;Stoginės;;
-7494;"Gegnė ""ECO""(7494)";m;6.00;16,64;https://www.sistemax.lt/api/Part_sketch/7494.png;"7016; 8017";1800;Stoginės;;
-7495;"Gegnė šoninė ""ECO""(7495)";m;6.00;15,54;https://www.sistemax.lt/api/Part_sketch/7495.png;"7016; 8017";1680;Stoginės;;
-7057;"Gegnė ""STANDART""(7057)";m;7.00;20,51;https://www.sistemax.lt/api/Part_sketch/7057.png;"7016; 8017";2210;Stoginės;;
-7058;"Gegnė šoninė ""STANDART""(7058)";m;7.00;24,07;https://www.sistemax.lt/api/Part_sketch/7058.png;"7016; 8017";2600;Stoginės;;
-7055;"Gegnė ""PREMIUM""(7055)";m;"3.50;4.00;5.00;6.00";32,1;https://www.sistemax.lt/api/Part_sketch/7055.png;"7016; 8017";3460;Stoginės;;
-7056;"Gegnė šoninė ""PREMIUM""(7056)";m;"4.00;5.00";35,3;https://www.sistemax.lt/api/Part_sketch/7056.png;"7016; 8017";3810;Stoginės;;
-1102;"Gegnė ""RYGEL""(1102)";m;6.80;30;https://www.sistemax.lt/api/Part_sketch/1102.png;"7016; 8017";0;Stoginės;;
-5688;"Atrama ""100x100"" (5688)";m;"5.00;7.00";19,62;https://www.sistemax.lt/api/Part_sketch/5688.png;"7016; 8017";2120;Stoginės;;
-7341;"Atrama ""120x120"" (7341)";m;"5.00;7.00";25,95;https://www.sistemax.lt/api/Part_sketch/7341.png;"7016; 8017";2800;Stoginės;;
-7342;"Standumas ""100x25"" (7342)";m;6.00;20,67;https://www.sistemax.lt/api/Part_sketch/7342.png;"7016; 8017";2230;Standumai;;
-7343;"Standumas ""120x25"" (7343)";m;"4.00;7.00";24,17;https://www.sistemax.lt/api/Part_sketch/7343.png;"7016; 8017";2610;Standumai;;
-7434;"Standumas ""150x50"" (7434)";m;"5.00;6.00;7.00";38,44;https://www.sistemax.lt/api/Part_sketch/7434.png;"7016; 8017";4150;Standumai;;
-7059;Prispaudėjas (7059);m;"6.00;7.00";3,22;https://www.sistemax.lt/api/Part_sketch/7059.png;MILL;400;Stoginės;;
-7496;Lenta (7496);m;"3.00;4.00";17,61;https://www.sistemax.lt/api/Part_sketch/7496.png;"7016; 8017";1900;Lentų siena;;
-7496u;Lentos tvirtinimas (7496u);m;6.00;16,35;https://www.sistemax.lt/api/Part_sketch/7496u.png;"7016; 8017";490;Lentų siena;;
-E300;"Guma ""PRI"" (E300) 45m";m;45.00;2,4;https://www.sistemax.lt/api/Part_sketch/E300.png;Black;0;Stoginės;;
-E301;"Guma ""SIENINĖ"" (E301) 50m";m;50.00;2;https://www.sistemax.lt/api/Part_sketch/E301.png;Black;0;Stoginės;;
-E302;"Guma gegnei ""plona"" (E302) 230m";m;230.00;0,48;https://www.sistemax.lt/api/Part_sketch/E302.png;Black;0;Stoginės;;
-E303;"Guma gegnei ""stora"" (E303) 160m";m;160.00;0,7;https://www.sistemax.lt/api/Part_sketch/E303.png;Black;0;Stoginės;;
-E305;"Dangtelis varžtu ""E305"" 100vnt";vnt;1;0,12;https://www.sistemax.lt/api/Part_sketch/E305.png;Black;0;Stoginės;;
-E304;"Gegnės tvirtinimo kampukas ""NP""";vnt;1;0,44;https://www.sistemax.lt/api/Part_sketch/E304.png;nesirenkama;0;Stoginės;;
-E306;Lapų gaudyklė (1vnt);vnt;1;9,48;https://www.sistemax.lt/api/Part_sketch/E306.png;nesirenkama;0;Stoginės;;
-E307;PVC vamzdis D80mm, 3m (RAL8017)(1vnt);vnt;1;20,54;https://www.sistemax.lt/api/Part_sketch/E307.png;"8017; 8017";0;Stoginės;;
-E307a;PVC vamzdis D80mm, 2,8m (RAL7016)(1vnt);vnt;1;20,54;https://www.sistemax.lt/api/Part_sketch/E307.png;"7016; 7016";0;Stoginės;;
-E308r;PVC alkūnė D80mm(1vnt) Ruda 90 laipsniu;vnt;1;9,3;https://www.sistemax.lt/api/Part_sketch/E308.png;"8017; 8017";0;Stoginės;;
-E308p;PVC alkūnė D80mm(1vnt)Pilka 70  laipsniu;vnt;1;9,3;https://www.sistemax.lt/api/Part_sketch/E308.png;"7016; 7016";0;Stoginės;;
-E309r;"Šoninis dangtelis ""SIENA"" (E309)(1vnt)";vnt;1;3,7;https://www.sistemax.lt/api/Part_sketch/E309.png;"7016; 8017";0;Stoginės;;
-E310;"Šoninis dangtelis ovalus""GIGA""(E310)(1vnt)";vnt;1;10,04;https://www.sistemax.lt/api/Part_sketch/E310.png;"7016; 8017";0;Stoginės;;
-E311;"Šoninis dangtelis ""ECO XS""(E311)(1vnt)";vnt;1;4,14;https://www.sistemax.lt/api/Part_sketch/E311.png;"7016; 8017";0;Stoginės;;
-E312;"Šoninis dangtelis""Giga XS""(E312)(1vnt)";vnt;1;7,08;https://www.sistemax.lt/api/Part_sketch/E312.png;"7016; 8017";0;Stoginės;;
-KPS90;Stiklo stabdis;vnt;1;2,5;https://www.sistemax.lt/api/Part_sketch/KPS90.png;nesirenkama;0;Stoginės;;
-ALT.100.0101;"Staktos šonas 60mm ""2T""";m;6.50;6,36;https://www.sistemax.lt/api/Part_sketch/ALT.100.0101.png;"7016; 8017";600;Rėminė stumdoma AL-100;;
-ALT.100.0102;"Staktos viršus ""2 T""";m;6.50;6,52;https://www.sistemax.lt/api/Part_sketch/ALT.100.0102.png;"7016; 8017";650;Rėminė stumdoma AL-100;;
-ALT.100.0103;"Staktos apačia ""2 T""";m;6.50;6,88;https://www.sistemax.lt/api/Part_sketch/ALT.100.0103.png;"7016; 8017";740;Rėminė stumdoma AL-100;;
-ALT.100.0107;"Staktos šonas 90mm ""3T""";m;7.00;7,55;https://www.sistemax.lt/api/Part_sketch/ALT.100.0107.png;"7016; 8017";800;Rėminė stumdoma AL-100;;
-ALT.100.0108;"Staktos viršus 90mm ""3T""";m;"5.50;6.00";8,73;https://www.sistemax.lt/api/Part_sketch/ALT.100.0108.png;"7016; 8017";910;Rėminė stumdoma AL-100;;
-ALT.100.0109;"Staktos apačia 90mm ""3T""";m;"5.50;6.00";9,56;https://www.sistemax.lt/api/Part_sketch/ALT.100.0109.png;"7016; 8017";1060;Rėminė stumdoma AL-100;;
-ALT.100.0114;"Staktos šonas 90mm ""4T""";m;7.00;9,49;https://www.sistemax.lt/api/Part_sketch/ALT.100.0114.png;"7016; 8017";1060;Rėminė stumdoma AL-100;;
-ALT.100.0115;"Staktos viršus 90mm ""4T""";m;4.20;11,22;https://www.sistemax.lt/api/Part_sketch/ALT.100.0115.png;"7016; 8017";1170;Rėminė stumdoma AL-100;;
-ALT.100.0116;"Staktos apačia 90mm ""4T""";m;4.20;12,97;https://www.sistemax.lt/api/Part_sketch/ALT.100.0116.png;"7016; 8017";1450;Rėminė stumdoma AL-100;;
-ALT.100.0202;Varčios šonas;m;6.80;4,83;https://www.sistemax.lt/api/Part_sketch/ALT.100.0202.png;"7016; 8017";530;Rėminė stumdoma AL-100;;
-ALT.100.0206;Varčios centrinis;m;6.80;4,58;https://www.sistemax.lt/api/Part_sketch/ALT.100.0206.png;"7016; 8017";510;Rėminė stumdoma AL-100;;
-ALT.100.0203;Varčios horizontalus;m;6.50;4,76;https://www.sistemax.lt/api/Part_sketch/ALT.100.0203.png;"7016; 8017";490;Rėminė stumdoma AL-100;;
-ALT.100.0501;"Susidurimas ""H""";m;6.80;2,93;https://www.sistemax.lt/api/Part_sketch/ALT.100.0501.png;"7016; 8017";220;Rėminė stumdoma AL-100;;
-8RU204;Ratukas (300vnt);vnt;1;1,01;https://www.sistemax.lt/api/Part_sketch/8RU204.png;nesirenkama;0;Rėminė stumdoma AL-100;;
-8KT2;Surinkimo komplektas (100vnt);vnt;1;1,17;https://www.sistemax.lt/api/Part_sketch/8KT2.png;Juoda;0;Rėminė stumdoma AL-100;;
-8CI147;Rankenėlė - fiksatorius (50vnt);vnt;1;2,06;https://www.sistemax.lt/api/Part_sketch/8CI147.png;Juoda;0;Rėminė stumdoma AL-100;;
-244C;Dvipusė rankenėlė - su raktu (1vnt);vnt;1;22,8;https://www.sistemax.lt/api/Part_sketch/244C.png;Juoda;0;Rėminė stumdoma AL-100;;
-Lsi-05;Tarpinė ALT varčių rinkimui (4-5mm) 185m;vnt;1;0,4;https://www.sistemax.lt/api/Part_sketch/Lsi-05.png;Juoda;0;Rėminė stumdoma AL-100;;
-Lsi-06;Tarpinė ALT varčių rinkimui 6mm) 200m;vnt;1;0,44;https://www.sistemax.lt/api/Part_sketch/Lsi-06.png;Juoda;0;Rėminė stumdoma AL-100;;
-7648;"Horizontalus profilis ""VC65""";m;6.50;6,31;https://www.sistemax.lt/api/Part_sketch/7648.png;"7016; 8017";630;Rėminė stumdoma VC-65;;
-7649;"Vertikalus su rankena ""VC65""";m;5.50;8,5;https://www.sistemax.lt/api/Part_sketch/7649.png;"7016; 8017";860;Rėminė stumdoma VC-65;;
-7650;"Vertikalus centrinis  ""VC65""";m;5.50;7,17;https://www.sistemax.lt/api/Part_sketch/7650.png;"7016; 8017";710;Rėminė stumdoma VC-65;;
-VC65.0404;"Susidurimas - H  ""VC65""";m;6.80;2,94;https://www.sistemax.lt/api/Part_sketch/VC65.0404.png;"7016; 8017";220;Rėminė stumdoma VC-65;;
-C2201;VC65 kampinė jungtis(100vnt);vnt;1;0,85;https://www.sistemax.lt/api/Part_sketch/C2201.png;Juoda;0;Rėminė stumdoma VC-65;;
-C2202;VC65 rankenos dangtelis(500vnt);vnt;1;0,28;https://www.sistemax.lt/api/Part_sketch/C2202.png;"7016; 8017";0;Rėminė stumdoma VC-65;;
-01VR05;Ratukas VC65 (1vnt);vnt;1;2,42;https://www.sistemax.lt/api/Part_sketch/01VR05.png;nesirenkama;0;Rėminė stumdoma VC-65;;
-ALT.100.0105;Vitrina 40mm;m;6.50;4,37;https://www.sistemax.lt/api/Part_sketch/ALT.100.0105.png;"7016; 8017";520;Rėminė vitrina AL-40;;
-ALT.100.0602;"40mm vitrinos stiklajuostė ""CLICK"" 4-6mm";m;6.50;1,78;https://www.sistemax.lt/api/Part_sketch/ALT.100.0602.png;"7016; 8017";180;Rėminė vitrina AL-40;;
-ALT.100.0603;"40mm vitrinos stiklajuostė ""CLICK"" 16mm";m;6.50;2,09;https://www.sistemax.lt/api/Part_sketch/ALT.100.0603.png;nesirenkama;170;Rėminė vitrina AL-40;;
-ALT.100.0301;Tiejinis vitrinai;m;6.50;5,26;https://www.sistemax.lt/api/Part_sketch/ALT.100.0301.png;nesirenkama;610;Rėminė vitrina AL-40;;
-049ES 08;kampinė jungtis 40mm (70vnt);vnt;1;0,58;https://www.sistemax.lt/api/Part_sketch/049ES%2008.png;nesirenkama;0;Rėminė vitrina AL-40;;
-9ES110;kampinė jungtis 60mm ;vnt;1;0,99;https://www.sistemax.lt/api/Part_sketch/9ES110.png;nesirenkama;0;Rėminė vitrina AL-40;;
-049GO/4;Užkišama vitrinai (4-5mm) 260m;vnt;1;0,38;https://www.sistemax.lt/api/Part_sketch/049GO%204.png;Juoda;0;Rėminė vitrina AL-40;;
-049GO/04;Užkišama vitrinai (6mm) 370m;vnt;1;0,3;https://www.sistemax.lt/api/Part_sketch/049GO%204.png;nesirenkama;0;Rėminė vitrina AL-40;;
-049GO 42;Neriama ovalas vitrinai (4-5-6mm) 200m;vnt;1;0,43;https://www.sistemax.lt/api/Part_sketch/049GO%2042.png;nesirenkama;0;Rėminė vitrina AL-40;;
-DRD;Drenažų dangtelis vitrinai 40mm (50vnt);vnt;1;0,18;https://www.sistemax.lt/api/Part_sketch/DRD.png;"7016; 8017";0;Rėminė vitrina AL-40;;
-9ES80;Tejinio jungtis (200vnt);vnt;1;0,5;https://www.sistemax.lt/api/Part_sketch/9ES80.png;Juoda;0;Rėminė vitrina AL-40;;
-7228;"Viršutinis bėgelis ""3t""(7228)";m;7.00;14,51;https://www.sistemax.lt/api/Part_sketch/7228.png;"7016; 8017";1570;Berėmis slide;;
-7340;Viršutinis bėgelis +1(7340);m;"4.20;5.20;7.00";7,16;https://www.sistemax.lt/api/Part_sketch/7340.png;"7016; 8017";770;Berėmis slide;;
-7344;Horizontalus stiklui(7344);m;7.00;7,87;https://www.sistemax.lt/api/Part_sketch/7344.png;Anode;850;Berėmis slide;;
-7435;Slide sienos lovys(7435);m;5.00;5,01;https://www.sistemax.lt/api/Part_sketch/7435.png;Anode;540;Berėmis slide;;
-7229;"Apatinis bėgelis ""3t""(7229)";m;7.00;8,61;https://www.sistemax.lt/api/Part_sketch/7229.png;Anode;910;Berėmis slide;;
-7426;"Apatinis bėgelis ""4t""(7426)";m;4.20;11,82;https://www.sistemax.lt/api/Part_sketch/7426.png;Anode;1250;Berėmis slide;;
-7713;"Apatinis bėgelis ""+5T""(7713)";m;5.20;14,57;https://www.sistemax.lt/api/Part_sketch/7713.png;Anode;1540;Berėmis slide;;
-29-saus;"Apatinis bėgelis ""+1T""(7229-1)";m;"5.10;6.50";3,6;https://www.sistemax.lt/api/Part_sketch/7229-1.png;Anode;362;Berėmis slide;;
-7999;Lovelis tarp stiklų 8mm (7999) ;m;4.60;1,23;https://www.sistemax.lt/api/Part_sketch/7999.png;Anode;130;Berėmis slide;;
-7436;Lovelis tarp stiklų 10mm (7436) ;m;5.00;1,23;https://www.sistemax.lt/api/Part_sketch/7436.png;Anode;130;Berėmis slide;;
-E101;Dangtelis(E101) (1vnt);vnt;1;6,18;https://www.sistemax.lt/api/Part_sketch/E101.png;nesirenkama;0;Berėmis slide;;
-E102;Dangtelis(E102) (1vnt);vnt;1;9,06;https://www.sistemax.lt/api/Part_sketch/E102.png;nesirenkama;0;Berėmis slide;;
-E103;Guolinis ratukas(E103) (1vnt);vnt;1;6,5;https://www.sistemax.lt/api/Part_sketch/E103.png;Black;0;Berėmis slide;;
-E105;"Slide ""NP"" rankena (1vnt)";vnt;1;4,8;https://www.sistemax.lt/api/Part_sketch/E105.png;Black;0;Berėmis slide;;
-E106-8;Tarpinė surinkimui 8mm(E106-8) 125m;vnt;125;0,76;https://www.sistemax.lt/api/Part_sketch/E106-8.png;Black;0;Berėmis slide;;
-E106-10;Tarpinė surinkimui 10mm(E106-10) 205m;vnt;205;0,44;https://www.sistemax.lt/api/Part_sketch/E106-10.png;Black;0;Berėmis slide;;
-E107;Šepetėlis 7x5(E107)  375m;vnt;375;0,16;https://www.sistemax.lt/api/Part_sketch/E107.png;Grey;0;Berėmis slide;;
-E108;Šepetėlis 7x7(E108) 225m;vnt;225;0,16;https://www.sistemax.lt/api/Part_sketch/E108.png;Grey;0;Berėmis slide;;
-E109;Šepetėlis 7x13(E108) 300m;vnt;300;0,3;https://www.sistemax.lt/api/Part_sketch/E109.png;Grey;0;Berėmis slide;;
-E110;Šepetėlis 7x13 su tarpine(E110) 275m;vnt;275;0,36;https://www.sistemax.lt/api/Part_sketch/E110.png;Black;0;Berėmis slide;;
-E112;Šepetėlis 7x10 (E112) 400m;vnt;400;0,32;https://www.sistemax.lt/api/Part_sketch/E112.png;nesirenkama;0;Berėmis slide;;
-E111;Fiksatorius(E111)  (1vnt);vnt;1;11,1;https://www.sistemax.lt/api/Part_sketch/E111.png;nesirenkama;0;Berėmis slide;;
-12360;Varžtas sieniniui 12x360;vnt;1;2,5;https://www.sistemax.lt/api/Part_sketch/12360.png;nesirenkama;0;Kiti elementai;;
-4825;Savisriehis 4.8x25;vnt;1;0,1;https://www.sistemax.lt/api/Part_sketch/4825.png;nesirenkama;0;Kiti elementai;;
-4832;Savisriehis 4.8x32;vnt;1;0,14;https://www.sistemax.lt/api/Part_sketch/4832.png;nesirenkama;0;Kiti elementai;;
-4838;Savisriehis 4.8x38;vnt;1;0,16;https://www.sistemax.lt/api/Part_sketch/4838.png;nesirenkama;0;Kiti elementai;;
-4845;Savisriehis 4.8x45;vnt;1;0,19;https://www.sistemax.lt/api/Part_sketch/4845.png;nesirenkama;0;Kiti elementai;;
-C4,2x25-A2;Varžtas 4,2x25 NP (TORX);vnt;1;0,06;https://www.sistemax.lt/api/Part_sketch/C4,2x25-A2.png;nesirenkama;0;Kiti elementai;;
-C4,2x32-A2;Varžtas 4,2x32 NP (TORX);vnt;1;0,07;https://www.sistemax.lt/api/Part_sketch/C4,2x32-A2.png;nesirenkama;0;Kiti elementai;;
-C5,5x25-A2;Varžtas 5,5x25 NP (TORX);vnt;1;0,1;https://www.sistemax.lt/api/Part_sketch/C4,2x32-A2.png;nesirenkama;0;Kiti elementai;;
-cut;Pjaustymas;vnt;1;1,06;https://www.sistemax.lt/api/Part_sketch/cut.png;nesirenkama;0;Kiti elementai;;
-FixCr;Fixal cristal (klijai);vnt;1;10,48;https://www.sistemax.lt/api/Part_sketch/FixCr.png;nesirenkama;0;Kiti elementai;;
-ankm;Anker masė (hilti);vnt;1;32,06;https://www.sistemax.lt/api/Part_sketch/ankm.png;nesirenkama;0;Kiti elementai;;
-1523;Kampukas 30x15;m;6.00;1,56;https://www.sistemax.lt/api/Part_sketch/1523.png;nesirenkama;0;Kiti elementai;;
-but;Butilo juosta 45mmx10m-al(10m);vnt;1;8,75;https://www.sistemax.lt/api/Part_sketch/but.png;nesirenkama;0;Kiti elementai;;
-157831;Plečianti juosta juoda 15/8-15 (5m);vnt;1;12,5;https://www.sistemax.lt/api/Part_sketch/157831.png;nesirenkama;0;Kiti elementai;;
-157829;Plečianti juosta juoda 20/10-20 (4m);vnt;1;13,58;https://www.sistemax.lt/api/Part_sketch/157831.png;nesirenkama;0;Kiti elementai;;
-PAK;Pakavimas;vnt;1;187,5;https://www.sistemax.lt/api/Part_sketch/PAK.png;nesirenkama;0;Kiti elementai;;
+﻿Kodas:;Pavadinimas:;mato vnt:;Ilgis:;Kaina:;Paveikslėlio adresas:;Spalvos RAL;Svoris:;Filtras:
+7337;"Lietlovis ""GIGA-XS""(7337)";m;"4.05;5.05;6.05;7.05";58,94;https://www.sistemax.lt/uploads/images/Part/7337.png;"7016; 8017";6360;Stoginės
+7785;"Lietlovis ""Eco XS""(7785)";m;"6.05;7.05";33,93;https://www.sistemax.lt/uploads/images/Part/7785.png;"7016; 8017";3660;Stoginės
+7339;Sienos profilis(7339);m;"4.05;5.05;6.05;7.05";19,23;https://www.sistemax.lt/api/Part_sketch/Sieninis.png;"7016; 8017";2080;Stoginės
+7338;"Dangtelis ""click""(7338)";m;5.70;6,28;https://www.sistemax.lt/api/Part_sketch/7338.png;"7016; 8017";680;Stoginės
+7427;Lietlovio (Giga-XS) dangtelis(7427);m;7.10;15,65;https://www.sistemax.lt/api/Part_sketch/7427.png;"7016; 8017";1690;Stoginės
+7060;Prispaudėjo dangtelis(7060);m;"6.00;7.00";2,32;https://www.sistemax.lt/api/Part_sketch/7060.png;"7016; 8017";250;Stoginės
+7061;Prispaudėjo šoninis dangtelis(7061);m;"4.00;7.00";3,71;https://www.sistemax.lt/api/Part_sketch/7061-OK-.wmf;"7016; 8017";400;Stoginės
+7494;"Gegnė ""ECO""(7494)";m;6.00;16,64;https://www.sistemax.lt/api/Part_sketch/7494.png;"7016; 8017";1800;Stoginės
+7495;"Gegnė šoninė ""ECO""(7495)";m;6.00;15,54;https://www.sistemax.lt/api/Part_sketch/7495.png;"7016; 8017";1680;Stoginės
+7057;"Gegnė ""STANDART""(7057)";m;7.00;20,51;https://www.sistemax.lt/api/Part_sketch/7057.png;"7016; 8017";2210;Stoginės
+7058;"Gegnė šoninė ""STANDART""(7058)";m;7.00;24,07;https://www.sistemax.lt/api/Part_sketch/7058.png;"7016; 8017";2600;Stoginės
+7055;"Gegnė ""PREMIUM""(7055)";m;"3.50;4.00;5.00;6.00";32,1;https://www.sistemax.lt/api/Part_sketch/7055.png;"7016; 8017";3460;Stoginės
+7056;"Gegnė šoninė ""PREMIUM""(7056)";m;"4.00;5.00";35,3;https://www.sistemax.lt/api/Part_sketch/7056.png;"7016; 8017";3810;Stoginės
+1102;"Gegnė ""RYGEL""(1102)";m;6.80;30;https://www.sistemax.lt/api/Part_sketch/1102.png;"7016; 8017";1;Stoginės
+5688;"Atrama ""100x100"" (5688)";m;"5.00;7.00";19,62;https://www.sistemax.lt/api/Part_sketch/5688.png;"7016; 8017";2120;Stoginės
+7341;"Atrama ""120x120"" (7341)";m;"5.00;7.00";25,95;https://www.sistemax.lt/api/Part_sketch/7341.png;"7016; 8017";2800;Stoginės
+7342;"Standumas ""100x25"" (7342)";m;6.00;20,67;https://www.sistemax.lt/api/Part_sketch/7342.png;"7016; 8017";2230;Standumai
+7343;"Standumas ""120x25"" (7343)";m;"4.00;7.00";24,17;https://www.sistemax.lt/api/Part_sketch/7343.png;"7016; 8017";2610;Standumai
+7434;"Standumas ""150x50"" (7434)";m;"5.00;6.00;7.00";38,44;https://www.sistemax.lt/api/Part_sketch/7434.png;"7016; 8017";4150;Standumai
+7059;Prispaudėjas (7059);m;"6.00;7.00";3,22;https://www.sistemax.lt/api/Part_sketch/7059.png;MILL;400;Stoginės
+7496;Lenta (7496);m;"3.00;4.00";17,61;https://www.sistemax.lt/api/Part_sketch/7496.png;"7016; 8017";1900;Lentų siena
+7496u;Lentos tvirtinimas (7496u);m;6.00;16,35;https://www.sistemax.lt/api/Part_sketch/7496u.png;"7016; 8017";490;Lentų siena
+E300;"Guma ""PRI"" (E300) 45m";m;45.00;2,4;https://www.sistemax.lt/api/Part_sketch/E300.png;Black;1;Stoginės
+E301;"Guma ""SIENINĖ"" (E301) 50m";m;50.00;2;https://www.sistemax.lt/api/Part_sketch/E301.png;Black;1;Stoginės
+E302;"Guma gegnei ""plona"" (E302) 230m";m;230.00;0,48;https://www.sistemax.lt/api/Part_sketch/E302.png;Black;1;Stoginės
+E303;"Guma gegnei ""stora"" (E303) 160m";m;160.00;0,7;https://www.sistemax.lt/api/Part_sketch/E303.png;Black;1;Stoginės
+E305;"Dangtelis varžtu ""E305"" 100vnt";vnt;1;0,12;https://www.sistemax.lt/api/Part_sketch/E305.png;Black;1;Stoginės
+E304;"Gegnės tvirtinimo kampukas ""NP""";vnt;1;0,44;https://www.sistemax.lt/api/Part_sketch/E304.png;nesirenkama;1;Stoginės
+E306;Lapų gaudyklė (1vnt);vnt;1;9,48;https://www.sistemax.lt/api/Part_sketch/E306.png;nesirenkama;1;Stoginės
+E307;PVC vamzdis D80mm, 3m (RAL8017)(1vnt);vnt;1;20,54;https://www.sistemax.lt/api/Part_sketch/E307.png;"8017; 8017";1;Stoginės
+E307a;PVC vamzdis D80mm, 2,8m (RAL7016)(1vnt);vnt;1;20,54;https://www.sistemax.lt/api/Part_sketch/E307.png;"7016; 7016";1;Stoginės
+E308r;PVC alkūnė D80mm(1vnt) Ruda 90 laipsniu;vnt;1;9,3;https://www.sistemax.lt/api/Part_sketch/E308.png;"8017; 8017";1;Stoginės
+E308p;PVC alkūnė D80mm(1vnt)Pilka 70  laipsniu;vnt;1;9,3;https://www.sistemax.lt/api/Part_sketch/E308.png;"7016; 7016";1;Stoginės
+E309r;"Šoninis dangtelis ""SIENA"" (E309)(1vnt)";vnt;1;3,7;https://www.sistemax.lt/api/Part_sketch/E309.png;"7016; 8017";1;Stoginės
+E310;"Šoninis dangtelis ovalus""GIGA""(E310)(1vnt)";vnt;1;10,04;https://www.sistemax.lt/api/Part_sketch/E310.png;"7016; 8017";1;Stoginės
+E311;"Šoninis dangtelis ""ECO XS""(E311)(1vnt)";vnt;1;4,14;https://www.sistemax.lt/api/Part_sketch/E311.png;"7016; 8017";1;Stoginės
+E312;"Šoninis dangtelis""Giga XS""(E312)(1vnt)";vnt;1;7,08;https://www.sistemax.lt/api/Part_sketch/E312.png;"7016; 8017";1;Stoginės
+KPS90;Stiklo stabdis;vnt;1;2,5;https://www.sistemax.lt/api/Part_sketch/KPS90.png;nesirenkama;1;Stoginės
+ALT.100.0101;"Staktos šonas 60mm ""2T""";m;6.50;6,36;https://www.sistemax.lt/api/Part_sketch/ALT.100.0101.png;"7016; 8017";600;Rėminė stumdoma AL-100
+ALT.100.0102;"Staktos viršus ""2 T""";m;6.50;6,52;https://www.sistemax.lt/api/Part_sketch/ALT.100.0102.png;"7016; 8017";650;Rėminė stumdoma AL-100
+ALT.100.0103;"Staktos apačia ""2 T""";m;6.50;6,88;https://www.sistemax.lt/api/Part_sketch/ALT.100.0103.png;"7016; 8017";740;Rėminė stumdoma AL-100
+ALT.100.0107;"Staktos šonas 90mm ""3T""";m;7.00;7,55;https://www.sistemax.lt/api/Part_sketch/ALT.100.0107.png;"7016; 8017";800;Rėminė stumdoma AL-100
+ALT.100.0108;"Staktos viršus 90mm ""3T""";m;"5.50;6.00";8,73;https://www.sistemax.lt/api/Part_sketch/ALT.100.0108.png;"7016; 8017";910;Rėminė stumdoma AL-100
+ALT.100.0109;"Staktos apačia 90mm ""3T""";m;"5.50;6.00";9,56;https://www.sistemax.lt/api/Part_sketch/ALT.100.0109.png;"7016; 8017";1060;Rėminė stumdoma AL-100
+ALT.100.0114;"Staktos šonas 90mm ""4T""";m;7.00;9,49;https://www.sistemax.lt/api/Part_sketch/ALT.100.0114.png;"7016; 8017";1060;Rėminė stumdoma AL-100
+ALT.100.0115;"Staktos viršus 90mm ""4T""";m;4.20;11,22;https://www.sistemax.lt/api/Part_sketch/ALT.100.0115.png;"7016; 8017";1170;Rėminė stumdoma AL-100
+ALT.100.0116;"Staktos apačia 90mm ""4T""";m;4.20;12,97;https://www.sistemax.lt/api/Part_sketch/ALT.100.0116.png;"7016; 8017";1450;Rėminė stumdoma AL-100
+ALT.100.0202;Varčios šonas;m;6.80;4,83;https://www.sistemax.lt/api/Part_sketch/ALT.100.0202.png;"7016; 8017";530;Rėminė stumdoma AL-100
+ALT.100.0206;Varčios centrinis;m;6.80;4,58;https://www.sistemax.lt/api/Part_sketch/ALT.100.0206.png;"7016; 8017";510;Rėminė stumdoma AL-100
+ALT.100.0203;Varčios horizontalus;m;6.50;4,76;https://www.sistemax.lt/api/Part_sketch/ALT.100.0203.png;"7016; 8017";490;Rėminė stumdoma AL-100
+ALT.100.0501;"Susidurimas ""H""";m;6.80;2,93;https://www.sistemax.lt/api/Part_sketch/ALT.100.0501.png;"7016; 8017";220;Rėminė stumdoma AL-100
+8RU204;Ratukas (300vnt);vnt;1;1,01;https://www.sistemax.lt/api/Part_sketch/8RU204.png;nesirenkama;1;Rėminė stumdoma AL-100
+8KT2;Surinkimo komplektas (100vnt);vnt;1;1,17;https://www.sistemax.lt/api/Part_sketch/8KT2.png;Juoda;1;Rėminė stumdoma AL-100
+8CI147;Rankenėlė - fiksatorius (50vnt);vnt;1;2,06;https://www.sistemax.lt/api/Part_sketch/8CI147.png;Juoda;1;Rėminė stumdoma AL-100
+244C;Dvipusė rankenėlė - su raktu (1vnt);vnt;1;22,8;https://www.sistemax.lt/api/Part_sketch/244C.png;Juoda;1;Rėminė stumdoma AL-100
+Lsi-05;Tarpinė ALT varčių rinkimui (4-5mm) 185m;vnt;1;0,4;https://www.sistemax.lt/api/Part_sketch/Lsi-05.png;Juoda;1;Rėminė stumdoma AL-100
+Lsi-06;Tarpinė ALT varčių rinkimui 6mm) 200m;vnt;1;0,44;https://www.sistemax.lt/api/Part_sketch/Lsi-06.png;Juoda;1;Rėminė stumdoma AL-100
+7648;"Horizontalus profilis ""VC65""";m;6.50;6,31;https://www.sistemax.lt/api/Part_sketch/7648.png;"7016; 8017";630;Rėminė stumdoma VC-65
+7649;"Vertikalus su rankena ""VC65""";m;5.50;8,5;https://www.sistemax.lt/api/Part_sketch/7649.png;"7016; 8017";860;Rėminė stumdoma VC-65
+7650;"Vertikalus centrinis  ""VC65""";m;5.50;7,17;https://www.sistemax.lt/api/Part_sketch/7650.png;"7016; 8017";710;Rėminė stumdoma VC-65
+VC65.0404;"Susidurimas - H  ""VC65""";m;6.80;2,94;https://www.sistemax.lt/api/Part_sketch/VC65.0404.png;"7016; 8017";220;Rėminė stumdoma VC-65
+C2201;VC65 kampinė jungtis(100vnt);vnt;1;0,85;https://www.sistemax.lt/api/Part_sketch/C2201.png;Juoda;1;Rėminė stumdoma VC-65
+C2202;VC65 rankenos dangtelis(500vnt);vnt;1;0,28;https://www.sistemax.lt/api/Part_sketch/C2202.png;"7016; 8017";1;Rėminė stumdoma VC-65
+01VR05;Ratukas VC65 (1vnt);vnt;1;2,42;https://www.sistemax.lt/api/Part_sketch/01VR05.png;nesirenkama;1;Rėminė stumdoma VC-65
+ALT.100.0105;Vitrina 40mm;m;6.50;4,37;https://www.sistemax.lt/api/Part_sketch/ALT.100.0105.png;"7016; 8017";520;Rėminė vitrina AL-40
+ALT.100.0602;"40mm vitrinos stiklajuostė ""CLICK"" 4-6mm";m;6.50;1,78;https://www.sistemax.lt/api/Part_sketch/ALT.100.0602.png;"7016; 8017";180;Rėminė vitrina AL-40
+ALT.100.0603;"40mm vitrinos stiklajuostė ""CLICK"" 16mm";m;6.50;2,09;https://www.sistemax.lt/api/Part_sketch/ALT.100.0603.png;nesirenkama;170;Rėminė vitrina AL-40
+ALT.100.0301;Tiejinis vitrinai;m;6.50;5,26;https://www.sistemax.lt/api/Part_sketch/ALT.100.0301.png;nesirenkama;610;Rėminė vitrina AL-40
+049ES 08;kampinė jungtis 40mm (70vnt);vnt;1;0,58;https://www.sistemax.lt/api/Part_sketch/049ES%2008.png;nesirenkama;1;Rėminė vitrina AL-40
+9ES110;kampinė jungtis 60mm ;vnt;1;0,99;https://www.sistemax.lt/api/Part_sketch/9ES110.png;nesirenkama;1;Rėminė vitrina AL-40
+049GO/4;Užkišama vitrinai (4-5mm) 260m;vnt;1;0,38;https://www.sistemax.lt/api/Part_sketch/049GO%204.png;Juoda;1;Rėminė vitrina AL-40
+049GO/04;Užkišama vitrinai (6mm) 370m;vnt;1;0,3;https://www.sistemax.lt/api/Part_sketch/049GO%204.png;nesirenkama;1;Rėminė vitrina AL-40
+049GO 42;Neriama ovalas vitrinai (4-5-6mm) 200m;vnt;1;0,43;https://www.sistemax.lt/api/Part_sketch/049GO%2042.png;nesirenkama;1;Rėminė vitrina AL-40
+DRD;Drenažų dangtelis vitrinai 40mm (50vnt);vnt;1;0,18;https://www.sistemax.lt/api/Part_sketch/DRD.png;"7016; 8017";1;Rėminė vitrina AL-40
+9ES80;Tejinio jungtis (200vnt);vnt;1;0,5;https://www.sistemax.lt/api/Part_sketch/9ES80.png;Juoda;1;Rėminė vitrina AL-40
+7228;"Viršutinis bėgelis ""3t""(7228)";m;7.00;14,51;https://www.sistemax.lt/api/Part_sketch/7228.png;"7016; 8017";1570;Berėmis slide
+7340;Viršutinis bėgelis +1(7340);m;"4.20;5.20;7.00";7,16;https://www.sistemax.lt/api/Part_sketch/7340.png;"7016; 8017";770;Berėmis slide
+7344;Horizontalus stiklui(7344);m;7.00;7,87;https://www.sistemax.lt/api/Part_sketch/7344.png;Anode;850;Berėmis slide
+7435;Slide sienos lovys(7435);m;5.00;5,01;https://www.sistemax.lt/api/Part_sketch/7435.png;Anode;540;Berėmis slide
+7229;"Apatinis bėgelis ""3t""(7229)";m;7.00;8,61;https://www.sistemax.lt/api/Part_sketch/7229.png;Anode;910;Berėmis slide
+7426;"Apatinis bėgelis ""4t""(7426)";m;4.20;11,82;https://www.sistemax.lt/api/Part_sketch/7426.png;Anode;1250;Berėmis slide
+7713;"Apatinis bėgelis ""+5T""(7713)";m;5.20;14,57;https://www.sistemax.lt/api/Part_sketch/7713.png;Anode;1540;Berėmis slide
+29-saus;"Apatinis bėgelis ""+1T""(7229-1)";m;"5.10;6.50";3,6;https://www.sistemax.lt/api/Part_sketch/7229-1.png;Anode;362;Berėmis slide
+7999;Lovelis tarp stiklų 8mm (7999) ;m;4.60;1,23;https://www.sistemax.lt/api/Part_sketch/7999.png;Anode;130;Berėmis slide
+7436;Lovelis tarp stiklų 10mm (7436) ;m;5.00;1,23;https://www.sistemax.lt/api/Part_sketch/7436.png;Anode;130;Berėmis slide
+E101;Dangtelis(E101) (1vnt);vnt;1;6,18;https://www.sistemax.lt/api/Part_sketch/E101.png;nesirenkama;1;Berėmis slide
+E102;Dangtelis(E102) (1vnt);vnt;1;9,06;https://www.sistemax.lt/api/Part_sketch/E102.png;nesirenkama;1;Berėmis slide
+E103;Guolinis ratukas(E103) (1vnt);vnt;1;6,5;https://www.sistemax.lt/api/Part_sketch/E103.png;Black;1;Berėmis slide
+E105;"Slide ""NP"" rankena (1vnt)";vnt;1;4,8;https://www.sistemax.lt/api/Part_sketch/E105.png;Black;1;Berėmis slide
+E106-8;Tarpinė surinkimui 8mm(E106-8) 125m;vnt;125;0,76;https://www.sistemax.lt/api/Part_sketch/E106-8.png;Black;1;Berėmis slide
+E106-10;Tarpinė surinkimui 10mm(E106-10) 205m;vnt;205;0,44;https://www.sistemax.lt/api/Part_sketch/E106-10.png;Black;1;Berėmis slide
+E107;Šepetėlis 7x5(E107)  375m;vnt;375;0,16;https://www.sistemax.lt/api/Part_sketch/E107.png;Grey;1;Berėmis slide
+E108;Šepetėlis 7x7(E108) 225m;vnt;225;0,16;https://www.sistemax.lt/api/Part_sketch/E108.png;Grey;1;Berėmis slide
+E109;Šepetėlis 7x13(E108) 300m;vnt;300;0,3;https://www.sistemax.lt/api/Part_sketch/E109.png;Grey;1;Berėmis slide
+E110;Šepetėlis 7x13 su tarpine(E110) 275m;vnt;275;0,36;https://www.sistemax.lt/api/Part_sketch/E110.png;Black;1;Berėmis slide
+E112;Šepetėlis 7x10 (E112) 400m;vnt;400;0,32;https://www.sistemax.lt/api/Part_sketch/E112.png;nesirenkama;1;Berėmis slide
+E111;Fiksatorius(E111)  (1vnt);vnt;1;11,1;https://www.sistemax.lt/api/Part_sketch/E111.png;nesirenkama;1;Berėmis slide
+12360;Varžtas sieniniui 12x360;vnt;1;2,5;https://www.sistemax.lt/api/Part_sketch/12360.png;nesirenkama;1;Kiti elementai
+4825;Savisriehis 4.8x25;vnt;1;0,1;https://www.sistemax.lt/api/Part_sketch/4825.png;nesirenkama;1;Kiti elementai
+4832;Savisriehis 4.8x32;vnt;1;0,14;https://www.sistemax.lt/api/Part_sketch/4832.png;nesirenkama;1;Kiti elementai
+4838;Savisriehis 4.8x38;vnt;1;0,16;https://www.sistemax.lt/api/Part_sketch/4838.png;nesirenkama;1;Kiti elementai
+4845;Savisriehis 4.8x45;vnt;1;0,19;https://www.sistemax.lt/api/Part_sketch/4845.png;nesirenkama;1;Kiti elementai
+C4,2x25-A2;Varžtas 4,2x25 NP (TORX);vnt;1;0,06;https://www.sistemax.lt/api/Part_sketch/C4,2x25-A2.png;nesirenkama;1;Kiti elementai
+C4,2x32-A2;Varžtas 4,2x32 NP (TORX);vnt;1;0,07;https://www.sistemax.lt/api/Part_sketch/C4,2x32-A2.png;nesirenkama;1;Kiti elementai
+C5,5x25-A2;Varžtas 5,5x25 NP (TORX);vnt;1;0,1;https://www.sistemax.lt/api/Part_sketch/C4,2x32-A2.png;nesirenkama;1;Kiti elementai
+cut;Pjaustymas;vnt;1;1,06;https://www.sistemax.lt/api/Part_sketch/cut.png;nesirenkama;1;Kiti elementai
+FixCr;Fixal cristal (klijai);vnt;1;10,48;https://www.sistemax.lt/api/Part_sketch/FixCr.png;nesirenkama;1;Kiti elementai
+ankm;Anker masė (hilti);vnt;1;32,06;https://www.sistemax.lt/api/Part_sketch/ankm.png;nesirenkama;1;Kiti elementai
+1523;Kampukas 30x15;m;6.00;1,56;https://www.sistemax.lt/api/Part_sketch/1523.png;nesirenkama;1;Kiti elementai
+but;Butilo juosta 45mmx10m-al(10m);vnt;1;8,75;https://www.sistemax.lt/api/Part_sketch/but.png;nesirenkama;1;Kiti elementai
+157831;Plečianti juosta juoda 15/8-15 (5m);vnt;1;12,5;https://www.sistemax.lt/api/Part_sketch/157831.png;nesirenkama;1;Kiti elementai
+157829;Plečianti juosta juoda 20/10-20 (4m);vnt;1;13,58;https://www.sistemax.lt/api/Part_sketch/157831.png;nesirenkama;1;Kiti elementai
+PAK;Pakavimas;vnt;1;187,5;https://www.sistemax.lt/api/Part_sketch/PAK.png;nesirenkama;1;Kiti elementai
