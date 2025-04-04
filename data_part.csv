@@ -52,10 +52,10 @@ ALT.100.0203;Varčios horizontalus;m;6.50;4,76;https://www.sistemax.lt/api/Part_
 ALT.100.0501;"Susidurimas ""H""";m;6.80;2,93;https://www.sistemax.lt/api/Part_sketch/ALT.100.0501.png;"7016; 8017";220;Rėminė stumdoma AL-100
 8RU204;Ratukas (300vnt);vnt;1;1,01;https://www.sistemax.lt/api/Part_sketch/8RU204.png;nesirenkama;Neįtrauktas;Rėminė stumdoma AL-100
 8KT2;Surinkimo komplektas (100vnt);vnt;1;1,17;https://www.sistemax.lt/api/Part_sketch/8KT2.png;Juoda;Neįtrauktas;Rėminė stumdoma AL-100
-8CI147;Rankenėlė - fiksatorius (50vnt);vnt;1;2,06;https://www.sistemax.lt/api/Part_sketch/8CI147.png;Juoda;Neįtrauktas;"""Rėminė stumdoma AL-100"""
-244C;Dvipusė rankenėlė - su raktu (1vnt);vnt;1;22,8;https://www.sistemax.lt/api/Part_sketch/244C.png;Juoda;Neįtrauktas;"""Rėminė stumdoma AL-100"""
-Lsi-05;Tarpinė ALT varčių rinkimui (4-5mm) 185m;vnt;1;0,4;https://www.sistemax.lt/api/Part_sketch/Lsi-05.png;Juoda;Neįtrauktas;"""Rėminė stumdoma AL-100"""
-Lsi-06;Tarpinė ALT varčių rinkimui 6mm) 200m;vnt;1;0,44;https://www.sistemax.lt/api/Part_sketch/Lsi-06.png;Juoda;Neįtrauktas;"""Rėminė stumdoma AL-100"""
+8CI147;Rankenėlė - fiksatorius (50vnt);vnt;1;2,06;https://www.sistemax.lt/api/Part_sketch/8CI147.png;Juoda;Neįtrauktas;Rėminė stumdoma AL-100
+244C;Dvipusė rankenėlė - su raktu (1vnt);vnt;1;22,8;https://www.sistemax.lt/api/Part_sketch/244C.png;Juoda;Neįtrauktas;Rėminė stumdoma AL-100
+Lsi-05;Tarpinė ALT varčių rinkimui (4-5mm) 185m;vnt;1;0,4;https://www.sistemax.lt/api/Part_sketch/Lsi-05.png;Juoda;Neįtrauktas;Rėminė stumdoma AL-100
+Lsi-06;Tarpinė ALT varčių rinkimui 6mm) 200m;vnt;1;0,44;https://www.sistemax.lt/api/Part_sketch/Lsi-06.png;Juoda;Neįtrauktas;Rėminė stumdoma AL-100
 7648;"Horizontalus profilis ""VC65""";m;6.50;6,31;https://www.sistemax.lt/api/Part_sketch/7648.png;"7016; 8017";630;Rėminė stumdoma VC-65
 7649;"Vertikalus su rankena ""VC65""";m;5.50;8,5;https://www.sistemax.lt/api/Part_sketch/7649.png;"7016; 8017";860;Rėminė stumdoma VC-65
 7650;"Vertikalus centrinis  ""VC65""";m;5.50;7,17;https://www.sistemax.lt/api/Part_sketch/7650.png;"7016; 8017";710;Rėminė stumdoma VC-65
@@ -69,11 +69,11 @@ ALT.100.0603;"40mm vitrinos stiklajuostė ""CLICK"" 16mm";m;6.50;2,09;https://ww
 ALT.100.0301;Tiejinis vitrinai;m;6.50;5,26;https://www.sistemax.lt/api/Part_sketch/ALT.100.0301.png;nesirenkama;610;Rėminė vitrina AL-40
 049ES 08;kampinė jungtis 40mm (70vnt);vnt;1;0,58;https://www.sistemax.lt/api/Part_sketch/049ES%2008.png;nesirenkama;Neįtrauktas;Rėminė vitrina AL-40
 9ES110;kampinė jungtis 60mm ;vnt;1;0,99;https://www.sistemax.lt/api/Part_sketch/9ES110.png;nesirenkama;Neįtrauktas;Rėminė vitrina AL-40
-049GO/4;Užkišama vitrinai (4-5mm) 260m;vnt;1;0,38;https://www.sistemax.lt/api/Part_sketch/049GO%204.png;Juoda;Neįtrauktas;"""Rėminė vitrina AL-40"""
-049GO/04;Užkišama vitrinai (6mm) 370m;vnt;1;0,3;https://www.sistemax.lt/api/Part_sketch/049GO%204.png;nesirenkama;Neįtrauktas;"""Rėminė vitrina AL-40"""
-049GO 42;Neriama ovalas vitrinai (4-5-6mm) 200m;vnt;1;0,43;https://www.sistemax.lt/api/Part_sketch/049GO%2042.png;nesirenkama;Neįtrauktas;"""Rėminė vitrina AL-40"""
-DRD;Drenažų dangtelis vitrinai 40mm (50vnt);vnt;1;0,18;https://www.sistemax.lt/api/Part_sketch/DRD.png;"7016; 8017";Neįtrauktas;"""Rėminė vitrina AL-40"""
-9ES80;Tejinio jungtis (200vnt);vnt;1;0,5;https://www.sistemax.lt/api/Part_sketch/9ES80.png;Juoda;Neįtrauktas;"""Rėminė vitrina AL-40"""
+049GO/4;Užkišama vitrinai (4-5mm) 260m;vnt;1;0,38;https://www.sistemax.lt/api/Part_sketch/049GO%204.png;Juoda;Neįtrauktas;Rėminė vitrina AL-40
+049GO/04;Užkišama vitrinai (6mm) 370m;vnt;1;0,3;https://www.sistemax.lt/api/Part_sketch/049GO%204.png;nesirenkama;Neįtrauktas;Rėminė vitrina AL-40
+049GO 42;Neriama ovalas vitrinai (4-5-6mm) 200m;vnt;1;0,43;https://www.sistemax.lt/api/Part_sketch/049GO%2042.png;nesirenkama;Neįtrauktas;Rėminė vitrina AL-40
+DRD;Drenažų dangtelis vitrinai 40mm (50vnt);vnt;1;0,18;https://www.sistemax.lt/api/Part_sketch/DRD.png;"7016; 8017";Neįtrauktas;Rėminė vitrina AL-40
+9ES80;Tejinio jungtis (200vnt);vnt;1;0,5;https://www.sistemax.lt/api/Part_sketch/9ES80.png;Juoda;Neįtrauktas;Rėminė vitrina AL-40
 7228;"Viršutinis bėgelis ""3t""(7228)";m;7.00;14,51;https://www.sistemax.lt/api/Part_sketch/7228.png;"7016; 8017";1570;Berėmis slide
 7340;Viršutinis bėgelis +1(7340);m;"4.20;5.20;7.00";7,16;https://www.sistemax.lt/api/Part_sketch/7340.png;"7016; 8017";770;Berėmis slide
 7344;Horizontalus stiklui(7344);m;7.00;7,87;https://www.sistemax.lt/api/Part_sketch/7344.png;Anode;850;Berėmis slide
@@ -81,7 +81,7 @@ DRD;Drenažų dangtelis vitrinai 40mm (50vnt);vnt;1;0,18;https://www.sistemax.lt
 7229;"Apatinis bėgelis ""3t""(7229)";m;7.00;8,61;https://www.sistemax.lt/api/Part_sketch/7229.png;Anode;910;Berėmis slide
 7426;"Apatinis bėgelis ""4t""(7426)";m;4.20;11,82;https://www.sistemax.lt/api/Part_sketch/7426.png;Anode;1250;Berėmis slide
 7713;"Apatinis bėgelis ""+5T""(7713)";m;5.20;14,57;https://www.sistemax.lt/api/Part_sketch/7713.png;Anode;1540;Berėmis slide
-saus-29;"Apatinis bėgelis ""+1T""(7229-1)";m;"5.10;6.50";3,6;https://www.sistemax.lt/api/Part_sketch/7229-1.png;Anode;362;Berėmis slide
+29-saus;"Apatinis bėgelis ""+1T""(7229-1)";m;"5.10;6.50";3,6;https://www.sistemax.lt/api/Part_sketch/7229-1.png;Anode;362;Berėmis slide
 7999;Lovelis tarp stiklų 8mm (7999) ;m;4.60;1,23;https://www.sistemax.lt/api/Part_sketch/7999.png;Anode;130;Berėmis slide
 7436;Lovelis tarp stiklų 10mm (7436) ;m;5.00;1,23;https://www.sistemax.lt/api/Part_sketch/7436.png;Anode;130;Berėmis slide
 E101;Dangtelis(E101) (1vnt);vnt;1;6,18;https://www.sistemax.lt/api/Part_sketch/E101.png;nesirenkama;Neįtrauktas;Berėmis slide
