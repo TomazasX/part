@@ -76,8 +76,8 @@ DRD;Drenažų dangtelis vitrinai 40mm (50vnt);vnt;1;0,18;https://www.sistemax.lt
 9ES80;Tejinio jungtis (200vnt);vnt;1;0,5;https://www.sistemax.lt/api/Part_sketch/9ES80.png;Juoda;10;Rėminė vitrina AL-40
 7228;"Viršutinis bėgelis ""3t""(7228)";m;7.00;14,51;https://www.sistemax.lt/api/Part_sketch/7228.png;"7016; 8017";1570;Berėmis slide
 7340;Viršutinis bėgelis +1(7340);m;"4.20;5.20;7.00";7,16;https://www.sistemax.lt/api/Part_sketch/7340.png;"7016; 8017";770;Berėmis slide
-7344;Horizontalus stiklui(7344);m;7.00;7,87;https://www.sistemax.lt/api/Part_sketch/7344.png;Anode;850;Berėmis slide
-7435;Slide sienos lovys(7435);m;5.00;5,01;https://www.sistemax.lt/api/Part_sketch/7435.png;Anode;540;Berėmis slide
+7344;Horizontalus stiklui(7344);m;7.00;7,87;https://www.sistemax.lt/api/Part_sketch/7344.png;"7016; 8017";850;Berėmis slide
+7435;Slide sienos lovys(7435);m;5.00;5,01;https://www.sistemax.lt/api/Part_sketch/7435.png;"7016; 8017";540;Berėmis slide
 7229;"Apatinis bėgelis ""3t""(7229)";m;7.00;8,61;https://www.sistemax.lt/api/Part_sketch/7229.png;Anode;910;Berėmis slide
 7426;"Apatinis bėgelis ""4t""(7426)";m;4.20;11,82;https://www.sistemax.lt/api/Part_sketch/7426.png;Anode;1250;Berėmis slide
 7713;"Apatinis bėgelis ""+5T""(7713)";m;5.20;14,57;https://www.sistemax.lt/api/Part_sketch/7713.png;Anode;1540;Berėmis slide
@@ -86,7 +86,7 @@ DRD;Drenažų dangtelis vitrinai 40mm (50vnt);vnt;1;0,18;https://www.sistemax.lt
 7436;Lovelis tarp stiklų 10mm (7436) ;m;5.00;1,23;https://www.sistemax.lt/api/Part_sketch/7436.png;Anode;130;Berėmis slide
 E101;Dangtelis(E101) (1vnt);vnt;1;6,18;https://www.sistemax.lt/api/Part_sketch/E101.png;nesirenkama;10;Berėmis slide
 E102;Dangtelis(E102) (1vnt);vnt;1;9,06;https://www.sistemax.lt/api/Part_sketch/E102.png;nesirenkama;10;Berėmis slide
-E103;Guolinis ratukas(E103) (1vnt);vnt;1;6,5;https://www.sistemax.lt/api/Part_sketch/E103.png;Black;10;Berėmis slide
+E103;Guolinis ratukas(E103) (200vnt) pakuotėje;vnt;1;6,5;https://www.sistemax.lt/api/Part_sketch/E103.png;Black;10;Berėmis slide
 E105;"Slide ""NP"" rankena (1vnt)";vnt;1;4,8;https://www.sistemax.lt/api/Part_sketch/E105.png;Black;10;Berėmis slide
 E106-8;Tarpinė surinkimui 8mm(E106-8) 125m;vnt;125;0,76;https://www.sistemax.lt/api/Part_sketch/E106-8.png;Black;10;Berėmis slide
 E106-10;Tarpinė surinkimui 10mm(E106-10) 205m;vnt;205;0,44;https://www.sistemax.lt/api/Part_sketch/E106-10.png;Black;10;Berėmis slide
