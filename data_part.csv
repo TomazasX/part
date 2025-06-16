@@ -29,10 +29,10 @@ E305;"Dangtelis varžtu ""E305"" 100vnt";vnt;1;0,12;E305;Black;100;Stoginės
 E304;"Gegnės tvirtinimo kampukas ""NP""";vnt;1;0,44;E304;nesirenkama;100;Stoginės
 E306;Lapų gaudyklė (1vnt);vnt;1;9,48;E306;nesirenkama;100;Stoginės
 E307;PVC vamzdis D80mm, 3m (RAL8017)(1vnt);vnt;1;20,54;E307;"8017; 8017";100;Stoginės
-E307a;PVC vamzdis D80mm, 2,8m (RAL7016)(1vnt);vnt;1;20,54;E307a;"7016; 7016";100;Stoginės
-E308r;PVC alkūnė D80mm(1vnt) Ruda 90 laipsniu;vnt;1;9,3;E308r;"8017; 8017";100;Stoginės
-E308p;PVC alkūnė D80mm(1vnt)Pilka 70  laipsniu;vnt;1;9,3;E308p;"7016; 7016";100;Stoginės
-E309r;"Šoninis dangtelis ""SIENA"" (E309)(1vnt)";vnt;1;3,7;E309r;"7016; 8017";100;Stoginės
+E307a;PVC vamzdis D80mm, 2,8m (RAL7016)(1vnt);vnt;1;20,54;E307;"7016; 7016";100;Stoginės
+E308r;PVC alkūnė D80mm(1vnt) Ruda 90 laipsniu;vnt;1;9,3;E308;"8017; 8017";100;Stoginės
+E308p;PVC alkūnė D80mm(1vnt)Pilka 70  laipsniu;vnt;1;9,3;E308;"7016; 7016";100;Stoginės
+E309r;"Šoninis dangtelis ""SIENA"" (E309)(1vnt)";vnt;1;3,7;E309;"7016; 8017";100;Stoginės
 E310;"Šoninis dangtelis ovalus""GIGA""(E310)(1vnt)";vnt;1;10,04;E310;"7016; 8017";100;Stoginės
 E311;"Šoninis dangtelis ""ECO XS""(E311)(1vnt)";vnt;1;4,14;E311;"7016; 8017";100;Stoginės
 E312;"Šoninis dangtelis""Giga XS""(E312)(1vnt)";vnt;1;7,08;E312;"7016; 8017";100;Stoginės
@@ -68,8 +68,8 @@ ALT.100.0301;Tiejinis vitrinai;m;5.50;5,18168;ALT.100.0301;nesirenkama;678;Rėmi
 244C;Dvipusė rankenėlė - su raktu (1vnt);vnt;6.50;22,8;244C;Juoda;100;Rėminė vitrina AL-40
 Lsi-05;Tarpinė ALT varčių rinkimui (4-5mm) 185m;vnt;6.50;0,40375;Lsi-05;Juoda;100;Rėminė vitrina AL-40
 Lsi-06;Tarpinė ALT varčių rinkimui 6mm) 200m;vnt;1;0,444;Lsi-06;Juoda;100;Rėminė vitrina AL-40
-049GO/4;Užkišama vitrinai (4-5mm) 260m;vnt;1;0,375;049GO/4;Juoda;100;Rėminė vitrina AL-40
-049GO/04;Užkišama vitrinai (6mm) 370m;vnt;1;0,3;049GO/04;Juoda;100;Rėminė vitrina AL-40
+049GO 4;Užkišama vitrinai (4-5mm) 260m;vnt;1;0,375;049GO 4;Juoda;100;Rėminė vitrina AL-40
+049GO 04;Užkišama vitrinai (6mm) 370m;vnt;1;0,3;049GO 4;Juoda;100;Rėminė vitrina AL-40
 049GO 42;Neriama ovalas vitrinai (4-5-6mm) 200m;vnt;1;0,425;049GO 42;nesirenkama;100;Rėminė vitrina AL-40
 C2201;VC65 kampinė jungtis(100vnt);vnt;1;0,845;C2201;nesirenkama;100;Rėminė vitrina AL-40
 C2202;VC65 rankenos dangtelis(500vnt);vnt;1;0,28;C2202;Juodas;100;Rėminė vitrina AL-40
@@ -81,7 +81,7 @@ DRD;Drenažų dangtelis vitrinai 40mm (50vnt);vnt;1;0,175;DRD;Juodas;100;Rėmin�
 7229;"Apatinis bėgelis ""3t""(7229)";m;7.00;8,0364375;7229;Anode;910;Berėmis slide
 7426;"Apatinis bėgelis ""4t""(7426)";m;4.20;11,03023125;7426;Anode;1250;Berėmis slide
 7713;"Apatinis bėgelis ""+5T""(7713)";m;5.20;13,600125;7713;Anode;1540;Berėmis slide
-7229 1;"Apatinis bėgelis ""+1T""(7229-1)";m;"5.10;6.50";3,600221893;7229 1;Anode;1540;Berėmis slide
+7229.1;"Apatinis bėgelis ""+1T""(7229-1)";m;"5.10;6.50";3,600221893;7229.1;Anode;1540;Berėmis slide
 7999;Lovelis tarp stiklų 8mm (7999) ;m;4.60;1,1480625;7999;Anode;130;Berėmis slide
 7436;Lovelis tarp stiklų 10mm (7436) ;m;5.00;1,1480625;7436;Anode;130;Berėmis slide
 E101;Dangtelis(E101) (1vnt);vnt;1;6,18;E101;Anodas;100;Berėmis slide
@@ -98,17 +98,17 @@ E112;Šepetėlis 7x10 (E112) 400m;vnt;400;0,32;E112;Pilkas;100;Berėmis slide
 E111;Fiksatorius(E111)  (1vnt);vnt;1;11,1;E111;nesirenkama;100;Berėmis slide
 12360;Varžtas sieniniui 12x360;vnt;1;2,500125;12360;nesirenkama;100;Kiti elementai
 4825;Savisriehis 4.8x25;vnt;1;0,1;4825;nesirenkama;100;Kiti elementai
-4832;Savisriehis 4.8x32;vnt;1;0,14;4832;nesirenkama;100;Kiti elementai
-4838;Savisriehis 4.8x38;vnt;1;0,16;4838;nesirenkama;100;Kiti elementai
-4845;Savisriehis 4.8x45;vnt;1;0,185;4845;nesirenkama;100;Kiti elementai
+4832;Savisriehis 4.8x32;vnt;1;0,14;4825;nesirenkama;100;Kiti elementai
+4838;Savisriehis 4.8x38;vnt;1;0,16;4825;nesirenkama;100;Kiti elementai
+4845;Savisriehis 4.8x45;vnt;1;0,185;4832;nesirenkama;100;Kiti elementai
 C4,2x25-A2;Varžtas 4,2x25 NP (TORX);vnt;1;0,0615;C4,2x25-A2;nesirenkama;5;Kiti elementai
-C4,2x32-A2;Varžtas 4,2x32 NP (TORX);vnt;1;0,068;C4,2x32-A2;nesirenkama;5;Kiti elementai
-C5,5x25-A2;Varžtas 5,5x25 NP (TORX);vnt;1;0,09775;C5,5x25-A2;nesirenkama;5;Kiti elementai
+C4,2x32-A2;Varžtas 4,2x32 NP (TORX);vnt;1;0,068;C4,2x25-A2;nesirenkama;5;Kiti elementai
+C5,5x25-A2;Varžtas 5,5x25 NP (TORX);vnt;1;0,09775;C4,2x25-A2;nesirenkama;5;Kiti elementai
 cut;Pjaustymas;vnt;1;1,0625;cut;nesirenkama;100;Kiti elementai
 FixCr;Fixal cristal (klijai);vnt;1;10,477155;FixCr;nesirenkama;1;Kiti elementai
 ankm;Anker masė (hilti);vnt;1;32,0625;ankm;nesirenkama;1;Kiti elementai
 1523;Kampukas 30x15;m;6.00;1,53405;1523;nesirenkama;180;Kiti elementai
 but;Butilo juosta 45mmx10m-al(10m);vnt;1;8,75;but;nesirenkama;100;Kiti elementai
 157831;Plečianti juosta juoda 15/8-15 (5m);vnt;1;12,5009375;157831;nesirenkama;100;Kiti elementai
-157829;Plečianti juosta juoda 20/10-20 (4m);vnt;1;13,579;157829;nesirenkama;100;Kiti elementai
+157829;Plečianti juosta juoda 20/10-20 (4m);vnt;1;13,579;157831;nesirenkama;100;Kiti elementai
 PAK;Pakavimas;vnt;1;187,5;PAK;nesirenkama;100;Kiti elementai
