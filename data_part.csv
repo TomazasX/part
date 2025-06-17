@@ -37,43 +37,43 @@ E310;"Šoninis dangtelis ovalus""GIGA""(E310)(1vnt)";vnt;1;10,04;E310;"7016; 801
 E311;"Šoninis dangtelis ""ECO XS""(E311)(1vnt)";vnt;1;4,14;E311;"7016; 8017";100;Stoginė
 E312;"Šoninis dangtelis""Giga XS""(E312)(1vnt)";vnt;1;7,08;E312;"7016; 8017";100;Stoginė
 KPS90;Stiklo stabdis;vnt;1;2,5;KPS90;nesirenkama;5;Stoginė
-ALT.100.0101;"Staktos viršus 60mm ""2T""";m;6.50;6,3590625;ALT.100.0101;"7016; 8017";600;Rėminė
-ALT.100.0102;"Staktos viršus ""2 T""";m;6.50;6,5197125;ALT.100.0102;"7016; 8017";650;Rėminė
-ALT.100.0103;"Staktos apačia ""2 T""";m;6.50;6,881175;ALT.100.0103;"7016; 8017";740;Rėminė
-ALT.100.0107;"Staktos šonas 90mm ""3T""";m;7.00;7,441786125;ALT.100.0107;"7016; 8017";800;Rėminė
-ALT.100.0108;"Staktos viršus 90mm ""3T""";m;"5.50;6.00";8,595854375;ALT.100.0108;"7016; 8017";910;Rėminė
-ALT.100.0109;"Staktos apačia 90mm ""3T""";m;"5.50;6.00";9,421015;ALT.100.0109;"7016; 8017";1060;Rėminė
-ALT.100.0114;"Staktos šonas 90mm ""4T""";m;7.00;9,347660625;ALT.100.0114;"7016; 8017";1060;Rėminė
-ALT.100.0115;"Staktos viršus 90mm ""4T""";m;4.20;11,04911688;ALT.100.0115;"7016; 8017";1170;Rėminė
-ALT.100.0116;"Staktos apačia 90mm ""4T""";m;4.20;12,781315;ALT.100.0116;"7016; 8017";1450;Rėminė
-ALT.100.0202;Varčios šonas;m;6.80;4,757016;ALT.100.0202;"7016; 8017";1060;Rėminė
-ALT.100.0206;Varčios centrinis;m;6.80;4,510533125;ALT.100.0206;"7016; 8017";510;Rėminė
-ALT.100.0203;Varčios horizontalus;m;6.50;4,691271;ALT.100.0203;"7016; 8017";510;Rėminė
-ALT.100.0501;"Susidurimas ""H""";m;6.80;2,9304;ALT.100.0501;"7016; 8017";220;Rėminė
-7648;"Horizontalus profilis ""VC65""";m;1;6,21156325;7648;"7016; 8017";630;Rėminė
-7649;"Vertikalus su rankena ""VC65""";m;1;8,3764;7649;"7016; 8017";860;Rėminė
-7650;"Vertikalus  ""VC65""";m;1;7,064909;7650;"7016; 8017";220;Rėminė
-VC65.0404;"Susidurimas - H  ""VC65""";m;1;2,936925;VC65.0404;"7016; 8017";220;Rėminė
-ALT.100.0105;Vitrina 40mm;m;1;4,30508;ALT.100.0105;"7016; 8017";520;Rėminė
-ALT.100.0602;"40mm vitrinos stiklajuostė ""CLICK"" 4-6mm";m;1;1,757765625;ALT.100.0602;"7016; 8017";180;Rėminė
-ALT.100.0603;"40mm vitrinos stiklajuostė ""CLICK"" 16mm";m;6.50;2,0898;ALT.100.0603;"7016; 8017";0;Rėminė
-ALT.100.0301;Tiejinis vitrinai;m;5.50;5,18168;ALT.100.0301;nesirenkama;678;Rėminė
-049ES 08;kampinė jungtis 40mm (70vnt);vnt;5.50;0,58175;049ES 08;nesirenkama;100;Rėminė
-9ES110;kampinė jungtis 60mm ;vnt;6.80;0,9875;9ES110;nesirenkama;100;Rėminė
-8RU204;Ratukas (300vnt);vnt;1;1,0105;8RU204;nesirenkama;100;Rėminė
-01VR05;Ratukas VC65 (1vnt);vnt;1;2,421875;01VR05;nesirenkama;100;Rėminė
-8KT2;Surinkimo komplektas (100vnt);vnt;1;1,1655;8KT2;nesirenkama;100;Rėminė
-9ES80;Tejinio jungtis (200vnt);vnt;6.50;0,5;9ES80;nesirenkama;100;Rėminė
-8CI147;Rankenėlė - fiksatorius (50vnt);vnt;6.50;2,056;8CI147;Juoda;100;Rėminė
-244C;Dvipusė rankenėlė - su raktu (1vnt);vnt;6.50;22,8;244C;Juoda;100;Rėminė
-Lsi-05;Tarpinė ALT varčių rinkimui (4-5mm) 185m;vnt;6.50;0,40375;Lsi-05;Juoda;100;Rėminė
-Lsi-06;Tarpinė ALT varčių rinkimui 6mm) 200m;vnt;1;0,444;Lsi-06;Juoda;100;Rėminė
-049GO 4;Užkišama vitrinai (4-5mm) 260m;vnt;1;0,375;049GO 4;Juoda;100;Rėminė
-049GO 04;Užkišama vitrinai (6mm) 370m;vnt;1;0,3;049GO 4;Juoda;100;Rėminė
-049GO 42;Neriama ovalas vitrinai (4-5-6mm) 200m;vnt;1;0,425;049GO 42;nesirenkama;100;Rėminė
-C2201;VC65 kampinė jungtis(100vnt);vnt;1;0,845;C2201;nesirenkama;100;Rėminė
-C2202;VC65 rankenos dangtelis(500vnt);vnt;1;0,28;C2202;Juodas;100;Rėminė
-DRD;Drenažų dangtelis vitrinai 40mm (50vnt);vnt;1;0,175;DRD;Juodas;100;Rėminė
+ALT.100.0101;"Staktos viršus 60mm ""2T""";m;6.50;6,3590625;ALT.100.0101;"7016; 8017";600;Rėminė AL100
+ALT.100.0102;"Staktos viršus ""2 T""";m;6.50;6,5197125;ALT.100.0102;"7016; 8017";650;Rėminė AL100
+ALT.100.0103;"Staktos apačia ""2 T""";m;6.50;6,881175;ALT.100.0103;"7016; 8017";740;Rėminė AL100
+ALT.100.0107;"Staktos šonas 90mm ""3T""";m;7.00;7,441786125;ALT.100.0107;"7016; 8017";800;Rėminė AL100
+ALT.100.0108;"Staktos viršus 90mm ""3T""";m;"5.50;6.00";8,595854375;ALT.100.0108;"7016; 8017";910;Rėminė AL100
+ALT.100.0109;"Staktos apačia 90mm ""3T""";m;"5.50;6.00";9,421015;ALT.100.0109;"7016; 8017";1060;Rėminė AL100
+ALT.100.0114;"Staktos šonas 90mm ""4T""";m;7.00;9,347660625;ALT.100.0114;"7016; 8017";1060;Rėminė AL100
+ALT.100.0115;"Staktos viršus 90mm ""4T""";m;4.20;11,04911688;ALT.100.0115;"7016; 8017";1170;Rėminė AL100
+ALT.100.0116;"Staktos apačia 90mm ""4T""";m;4.20;12,781315;ALT.100.0116;"7016; 8017";1450;Rėminė AL100
+ALT.100.0202;Varčios šonas;m;6.80;4,757016;ALT.100.0202;"7016; 8017";1060;Rėminė AL100
+ALT.100.0206;Varčios centrinis;m;6.80;4,510533125;ALT.100.0206;"7016; 8017";510;Rėminė AL100
+ALT.100.0203;Varčios horizontalus;m;6.50;4,691271;ALT.100.0203;"7016; 8017";510;Rėminė AL100
+ALT.100.0501;"Susidurimas ""H""";m;6.80;2,9304;ALT.100.0501;"7016; 8017";220;Rėminė AL100
+7648;"Horizontalus profilis ""VC65""";m;1;6,21156325;7648;"7016; 8017";630;Rėminė VC65
+7649;"Vertikalus su rankena ""VC65""";m;1;8,3764;7649;"7016; 8017";860;Rėminė VC65
+7650;"Vertikalus  ""VC65""";m;1;7,064909;7650;"7016; 8017";220;Rėminė VC65
+VC65.0404;"Susidurimas - H  ""VC65""";m;1;2,936925;VC65.0404;"7016; 8017";220;Rėminė VC65
+ALT.100.0105;Vitrina 40mm;m;1;4,30508;ALT.100.0105;"7016; 8017";520;Rėminė AL40
+ALT.100.0602;"40mm vitrinos stiklajuostė ""CLICK"" 4-6mm";m;1;1,757765625;ALT.100.0602;"7016; 8017";180;Rėminė AL40
+ALT.100.0603;"40mm vitrinos stiklajuostė ""CLICK"" 16mm";m;6.50;2,0898;ALT.100.0603;"7016; 8017";0;Rėminė AL40
+ALT.100.0301;Tiejinis vitrinai;m;5.50;5,18168;ALT.100.0301;nesirenkama;678;Rėminė AL40
+049ES 08;kampinė jungtis 40mm (70vnt);vnt;5.50;0,58175;049ES 08;nesirenkama;100;Rėminė AL40
+9ES110;kampinė jungtis 60mm ;vnt;6.80;0,9875;9ES110;nesirenkama;100;Rėminė AL60
+8RU204;Ratukas (300vnt);vnt;1;1,0105;8RU204;nesirenkama;100;Rėminė AL100
+01VR05;Ratukas VC65 (1vnt);vnt;1;2,421875;01VR05;nesirenkama;100;Rėminė VC65
+8KT2;Surinkimo komplektas (100vnt);vnt;1;1,1655;8KT2;nesirenkama;100;Rėminė AL100
+9ES80;Tejinio jungtis (200vnt);vnt;6.50;0,5;9ES80;nesirenkama;100;Rėminė AL40
+8CI147;Rankenėlė - fiksatorius (50vnt);vnt;6.50;2,056;8CI147;Juoda;100;Rėminė AL100
+244C;Dvipusė rankenėlė - su raktu (1vnt);vnt;6.50;22,8;244C;Juoda;100;Rėminė AL100
+Lsi-05;Tarpinė ALT varčių rinkimui (4-5mm) 185m;vnt;6.50;0,40375;Lsi-05;Juoda;100;Rėminė AL100
+Lsi-06;Tarpinė ALT varčių rinkimui 6mm) 200m;vnt;1;0,444;Lsi-06;Juoda;100;Rėminė AL100
+049GO 4;Užkišama vitrinai (4-5mm) 260m;vnt;1;0,375;049GO 4;Juoda;100;Rėminė AL40
+049GO 04;Užkišama vitrinai (6mm) 370m;vnt;1;0,3;049GO 4;Juoda;100;Rėminė AL40
+049GO 42;Neriama ovalas vitrinai (4-5-6mm) 200m;vnt;1;0,425;049GO 42;nesirenkama;100;Rėminė AL40
+C2201;VC65 kampinė jungtis(100vnt);vnt;1;0,845;C2201;nesirenkama;100;Rėminė VC65
+C2202;VC65 rankenos dangtelis(500vnt);vnt;1;0,28;C2202;Juodas;100;Rėminė VC65
+DRD;Drenažų dangtelis vitrinai 40mm (50vnt);vnt;1;0,175;DRD;Juodas;100;Rėminė VC65
 7228;"Viršutinis bėgelis ""3t""(7228)";m;7.00;14,29040625;7228;"7016; 8017";1570;Berėmė
 7340;Viršutinis bėgelis +1(7340);m;"4.20;5.20;7.00";7,049325;7340;"7016; 8017";770;Berėmė
 7344;Horizontalus stiklui(7344);m;7.00;7,75243125;7344;"7016; 8017";850;Berėmė
