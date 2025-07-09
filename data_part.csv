@@ -37,9 +37,9 @@ E310;"Šoninis dangtelis ovalus""GIGA""(E310)(1vnt)";vnt;1;10,04;E310;"7016; 801
 E311;"Šoninis dangtelis ""ECO XS""(E311)(1vnt)";vnt;1;4,14;E311;"7016; 8017";100;Stoginė;"Side cover ""ECO""(E311)"
 E312;"Šoninis dangtelis""Giga XS""(E312)(1vnt)";vnt;1;7,08;E312;"7016; 8017";100;Stoginė;"Side cover""XS""(E312)"
 KPS90;Stiklo stabdis;vnt;1;2,5;KPS90;nesirenkama;5;Stoginė;Galss stoper
-ALT.100.0101;"Staktos šonas 60mm ""2T""";m;6;5,5;ALT.100.0101;"7016; 8017";600;Rėminė AL100;"Wall ""2"""
-ALT.100.0102;"Staktos viršus ""2 T""";m;6;5,91;ALT.100.0102;"7016; 8017";650;Rėminė AL100;"Upper track ""2T"""
-ALT.100.0103;"Staktos apačia ""2 T""";m;6;6,75;ALT.100.0103;"7016; 8017";740;Rėminė AL100;"Down track ""2T"""
+ALT.100.0101;"Staktos šonas 60mm ""2T""";m;6.5;5,5;ALT.100.0101;"7016; 8017";600;Rėminė AL100;"Wall ""2"""
+ALT.100.0102;"Staktos viršus ""2 T""";m;6.5;5,91;ALT.100.0102;"7016; 8017";650;Rėminė AL100;"Upper track ""2T"""
+ALT.100.0103;"Staktos apačia ""2 T""";m;6.5;6,75;ALT.100.0103;"7016; 8017";740;Rėminė AL100;"Down track ""2T"""
 ALT.100.0107;"Staktos šonas 90mm ""3T""";m;7;7,3;ALT.100.0107;"7016; 8017";800;Rėminė AL100;"Wall ""3"""
 ALT.100.0108;"Staktos viršus 90mm ""3T""";m;"5.5;6";8,32;ALT.100.0108;"7016; 8017";910;Rėminė AL100;"Upper track ""3T"""
 ALT.100.0109;"Staktos apačia 90mm ""3T""";m;"5.5;6";9,68;ALT.100.0109;"7016; 8017";1060;Rėminė AL100;"Down track ""3T"""
