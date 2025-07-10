@@ -10,7 +10,7 @@
 7495;"Gegnė šoninė ""ECO""(7495)";m;6;15,31;7495;"7016; 8017";678;Stoginė;"Rafter side ""ECO""(7495)"
 7057;"Gegnė ""STANDART""(7057)";m;7;20,21;7057;"7016; 8017";678;Stoginė;"Rafter ""STANDART""(7057)"
 7058;"Gegnė šoninė ""STANDART""(7058)";m;7;23,71;7058;"7016; 8017";678;Stoginė;"Rafter side ""STANDART""(7058)"
-7055;"Gegnė ""PREMIUM""(7055)";m;"3.5;4;5;6";31,62;7055;"7016; 8017";346;Stoginė;"Rafter ""PREMIUM""(7055)"
+7055;"Gegnė ""PREMIUM""(7055)";m;"4;5;6";31,62;7055;"7016; 8017";346;Stoginė;"Rafter ""PREMIUM""(7055)"
 7056;"Gegnė šoninė ""PREMIUM""(7056)";m;"4;5";34,77;7056;"7016; 8017";346;Stoginė;"Rafter side ""PREMIUM""(7056)"
 1102;"Gegnė ""RYGEL""(1102)";m;6.8;30,00;1102;"7016; 8017";1590;Stoginė;"Rafter ""RYGEL"" 1102"
 5688;"Atrama ""100x100"" (5688)";m;"5;7";19,33;5688;"7016; 8017";2200;Stoginė;"Post ""100x100""(5688)"
@@ -26,7 +26,7 @@ E301;"Guma ""SIENINĖ"" (E301) 50m";m;"50;1";2,00;E301;Black;100;Stoginė;"Seal 
 E302;"Guma gegnei ""plona"" (E302) 230m";m;"230;1";0,48;E302;Black;100;Stoginė;"Seal rafter ""SMALL""(E302) 230m"
 E303;"Guma gegnei ""stora"" (E303) 160m";m;"160;1";0,70;E303;Black;100;Stoginė;"Seal rafter ""BIG""(E303) 160m"
 E305;"Dangtelis varžtu ""E305"" 100vnt";vnt;"100;1";0,12;E305;Black;100;Stoginė;"Cover screw""E305"" 100psc"
-E304;"Gegnės tvirtinimo kampukas ""NP""";vnt;1;0,44;E304;nesirenkama;100;Stoginė;Rafter angle SS
+E304;"Gegnės tvirtinimo kampukas ""NP""";vnt;500,1;0,44;E304;nesirenkama;100;Stoginė;Rafter angle SS
 E306;Lapų gaudyklė (1vnt);vnt;"50;1";9,48;E306;nesirenkama;100;Stoginė;Leaf catcher
 E307;PVC vamzdis D80mm, 3m (RAL8017)(1vnt);vnt;3;20,54;E307;"8017; 8017";100;Stoginė;PVC pipe D80mm, 3m
 E307a;PVC vamzdis D80mm, 2,8m (RAL7016)(1vnt);vnt;2.8;20,54;E307;"7016; 7016";100;Stoginė;PVC pipe D80mm, 3m
@@ -72,8 +72,8 @@ Lsi-06;Tarpinė ALT varčių rinkimui 6mm) 200m;vnt;"200;1";0,51;Lsi-06;Juoda;10
 049GO 04;Užkišama vitrinai (6mm) 370m;vnt;"370;1";0,19;049GO 4;Juoda;100;Rėminė AL40;Seal ALT vitrine(6mm)
 049GO 42;Neriama ovalas vitrinai (4-5-6mm) 200m;vnt;"200;1";0,39;049GO 42;nesirenkama;100;Rėminė AL40;Seal circle ALT vitrine(4-5-6mm)
 C2201;VC65 kampinė jungtis(100vnt);vnt;"100;1";1,16;C2201;nesirenkama;100;Rėminė VC65;Conect angle VC65 with button
-C2203;VC65 kampinė jungtis su knopke(100 vnt);vnt;1;1,28;C2203;nesirenkama;100;Rėminė VC65;Conect angle with button VC65(100psc)
-C2202;VC65 rankenos dangtelis(500vnt);vnt;"500;1";1,36;C2202;Juodas;100;Rėminė VC65;Conect anglehandle VC65(500psc)
+C2203;VC65  jungtis su knopke;vnt;"100;1";1,28;C2203;nesirenkama;100;Rėminė VC65;Conect angle VC65(100psc)
+C2202;VC65 rankenos dangtelis(500vnt);vnt;"500;1";0,27;C2202;Juodas;100;Rėminė VC65;Conect anglehandle VC65(500psc)
 DRD;Drenažų dangtelis vitrinai 40mm (50vnt);vnt;"50;1";0,18;DRD;Juodas;100;Rėminė VC65;Conect angle VC65(100psc)
 7228;"Viršutinis bėgelis ""3t""(7228)";m;7;14,29;7228;"7016; 8017";1570;Berėmė;"Upper track ""3T""(7228)"
 7340;Viršutinis bėgelis +1(7340);m;"4.2;5.2;7";7,05;7340;"7016; 8017";770;Berėmė;Upper track+1(7340)
@@ -87,8 +87,8 @@ DRD;Drenažų dangtelis vitrinai 40mm (50vnt);vnt;"50;1";0,18;DRD;Juodas;100;Rė
 7436;Lovelis tarp stiklų 10mm (7436) ;m;5;1,15;7436;Anode;130;Berėmė;Beetween glass profile 10mm (7436) 
 E101;Dangtelis(E101) (1vnt);vnt;1;6,18;E101;Anodas;100;Berėmė;Cover(E101)
 E102;Dangtelis(E102) (1vnt);vnt;1;9,06;E102;Anodas;100;Berėmė;Cover(E102)
-E103;Guolinis ratukas(E103) (1vnt);vnt;1;6,50;E103;nesirenkama;100;Berėmė;Roller (E103)
-E105;"Slide ""NP"" rankena (1vnt)";vnt;1;4,80;E105;nesirenkama;100;Berėmė;"Slide ""SS"" handle 60x7"
+E103;Guolinis ratukas(E103) (200vnt);vnt;"200;1";6,50;E103;nesirenkama;100;Berėmė;Roller (E103)
+E105;"Slide ""NP"" rankena (75vnt)";vnt;"75;1";4,80;E105;nesirenkama;100;Berėmė;"Slide ""SS"" handle 60x7"
 E106-8;Tarpinė surinkimui 8mm(E106-8) 125m;vnt;"125;1";0,76;E106-8;nesirenkama;100;Berėmė;Assembly seal(E106-8) 125m
 E106-10;Tarpinė surinkimui 10mm(E106-10) 205m;vnt;"205;1";0,44;E106-10;Juoda;100;Berėmė;Assembly seal(E106-10) 205m
 E107;Šepetėlis 7x5(E107)  375m;vnt;"375;1";0,16;E107;Juoda;100;Berėmė;Pile  7x5(E107)  375m
@@ -98,10 +98,10 @@ E110;Šepetėlis 7x13 su tarpine(E110) 275m;vnt;"275;1";0,36;E110;Pilkas;100;Ber
 E112;Šepetėlis 7x10 (E112) 400m;vnt;"400;1";0,32;E112;Juodas;100;Berėmė;Pile 7x10 (E112) 400m
 E111;Fiksatorius(E111)  (1vnt);vnt;1;11,10;E111;nesirenkama;100;Berėmė;Fiks(E111) 1psc
 12360;Varžtas sieniniui 12x360;vnt;1;2,50;12360;nesirenkama;100;Varžtai;Cutting
-4825;Savisriehis 4.8x25;vnt;1;0,10;4825;nesirenkama;100;Varžtai;Cutting
-4832;Savisriehis 4.8x32;vnt;1;0,14;4825;nesirenkama;100;Varžtai;Cutting
-4838;Savisriehis 4.8x38;vnt;1;0,16;4825;nesirenkama;100;Varžtai;Cutting
-4845;Savisriegis 4.8x45;vnt;1;0,19;4832;nesirenkama;100;Varžtai;Cutting
+4825;Savisriehis 4.8x25;vnt;1;0,20;4825;nesirenkama;100;Varžtai;Cutting
+4832;Savisriehis 4.8x32;vnt;1;0,28;4825;nesirenkama;100;Varžtai;Cutting
+4838;Savisriehis 4.8x38;vnt;1;0,32;4825;nesirenkama;100;Varžtai;Cutting
+4845;Savisriehis 4.8x45;vnt;1;0,37;4832;nesirenkama;100;Varžtai;Cutting
 C4,2x25-A2;Varžtas 4,2x25 NP (TORX);vnt;1;0,06;C4,2x25-A2;nesirenkama;5;Varžtai;Screw 4,2x25 SS
 C4,2x32-A2;Varžtas 4,2x32 NP (TORX);vnt;1;0,07;C4,2x25-A2;nesirenkama;5;Varžtai;Screw 4,2x25 SS
 C5,5x25-A2;Varžtas 5,5x25 NP (TORX);vnt;1;0,10;C4,2x25-A2;nesirenkama;5;Varžtai;Screw 4,2x25 SS
