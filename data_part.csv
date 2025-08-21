@@ -114,7 +114,7 @@ E111;Fiksatorius(E111)  (1vnt);vnt;1;11,1;E111;nesirenkama;100;Berėmė;Fiks(E11
 C4,2x25-A2;Varžtas 4,2x25 NP (TORX);vnt;1;0,06;C4,2x25-A2;nesirenkama;5;Varžtai;Screw 4,2x25 SS;Screw
 C4,2x32-A2;Varžtas 4,2x32 NP (TORX);vnt;1;0,07;C4,2x25-A2;nesirenkama;5;Varžtai;Screw 4,2x25 SS;Screw
 C5,5x25-A2;Varžtas 5,5x25 NP (TORX);vnt;1;0,1;C4,2x25-A2;nesirenkama;5;Varžtai;Screw 4,2x25 SS;Screw
-cut;Pjaustymas;vnt;1;1,06;cut;nesirenkama;100;kita;Cutting;Cutting
+cut;Pjaustymas;vnt;1;1,06;cut;nesirenkama;100;kita;Cutting;Other
 FixCr;Fixal cristal (klijai);vnt;1;10,48;FixCr;nesirenkama;1;kita;Fixal glue;Other
 ankm;Anker masė (hilti);vnt;1;32,06;ankm;nesirenkama;1;kita;Packing;Other
 1523;Kampukas 30x15;m;6;1,53;1523;nesirenkama;180;kita;Angle 30x15;Other
