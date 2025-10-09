@@ -25,7 +25,7 @@ E300;"Guma ""PRI"" (E300) 45m";m;"45;1;1";2,4;E300;Black;373;Stoginė;"Seal ""PR
 E301;"Guma ""SIENINĖ"" (E301) 50m";m;"50;1";2;E301;Black;325;Stoginė;"Seal ""WALL""(E301)";Roof
 E302;"Guma gegnei ""plona"" (E302) 230m";m;"230;1";0,48;E302;Black;74;Stoginė;"Seal rafter ""SMALL""(E302) 230m";Roof
 E303;"Guma gegnei ""stora"" (E303) 160m";m;"160;1";0,7;E303;Black;109;Stoginė;"Seal rafter ""BIG""(E303) 160m";Roof
-E305;"Dangtelis varžtu ""E305"" 100vnt";vnt;"500;1";0,12;E305;Black;0.2;Stoginė;"Cover screw""E305"" 100psc";Roof
+E305;"Dangtelis varžtu ""E305"" 500vnt";vnt;"500;1";0,12;E305;Black;0.2;Stoginė;"Cover screw""E305"" 100psc";Roof
 E304;"Gegnės tvirtinimo kampukas ""NP""";vnt;500,1;0,44;E304;nesirenkama;23;Stoginė;Rafter angle SS;Roof
 E306;Lapų gaudyklė (1vnt);vnt;"50;1";9,48;E306;nesirenkama;84;Stoginė;Leaf catcher;Roof
 E307;PVC vamzdis D80mm, 3m (RAL8017)(1vnt);vnt;3;6,85;E307;"8017; 8017";586;Stoginė;PVC pipe D80mm, 3m;Roof
@@ -72,7 +72,7 @@ Lsi-06;Tarpinė ALT varčių rinkimui 6mm) 200m;vnt;"200;1";0,44;Lsi-06;Juoda;78
 049GO 04;Užkišama vitrinai (6mm) 370m;vnt;"370;1";0,32;049GO 4;Juoda;50;Rėminė AL40;Seal ALT vitrine(6mm);Frame AL40
 049GO 42;Neriama ovalas vitrinai (4-5-6mm) 200m;vnt;"200;1";0,53;049GO 42;nesirenkama;37;Rėminė AL40;Seal circle ALT vitrine(4-5-6mm);Frame AL40
 C2201;VC65 kampinė jungtis(100vnt);vnt;"100;400;1";1,04;C2201;nesirenkama;49;Rėminė VC65;Conect angle VC65 with button;Frame VC65
-C2203;VC65  jungtis su knopke;vnt;"100;1";1,28;C2203;nesirenkama;26;Rėminė VC65;Conect angle VC65(100psc);Frame VC65
+C2203;VC65  jungtis su knopke(1000K arba D / 500K arba D);vnt;"1000;500;1";1,28;C2203;nesirenkama;26;Rėminė VC65;Conect angle VC65(100psc);Frame VC65
 C2202;VC65 rankenos dangtelis(500vnt);vnt;"500;1000;1";0,39;C2202;Juodas;4;Rėminė VC65;Conect anglehandle VC65(500psc);Frame VC65
 DRD;Drenažų dangtelis vitrinai 40mm (50vnt);vnt;"50;1";0,18;DRD;Juodas;100;Rėminė AL40;Drenage cover(50psc);Frame AL40
 7228;"Viršutinis bėgelis ""3t""(7228)";m;"7;1";14,29;7228;"7016; 8017";1570;Berėmė;"Upper track ""3T""(7228)";Frameless
