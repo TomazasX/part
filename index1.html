@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="lt">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>3D peržiūra</title>
+
+  <!-- model-viewer: pagrindinis CDN + saugus atsarginis (fallback) -->
+  <script type="module" id="mv-primary" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+  <script>
+    // Fallback: jei po įkrovimo <model-viewer> neatsirado, užkraunam kitą CDN.
+    (function ensureModelViewer(){
+      function ready(){ return !!(window.customElements && customElements.get && customElements.get('model-viewer')); }
+      function injectFallback(){
+        if (ready()) return;
+        const s = document.createElement('script');
+        s.type = 'module';
+        s.src  = 'https://cdn.jsdelivr.net/npm/@google/model-viewer/dist/model-viewer.min.js';
+        document.head.appendChild(s);
+      }
+      // 1) pabandome iškart po "load" (moduliniai skriptai turi onload)
+      const primary = document.getElementById('mv-primary');
+      if (primary) {
+        primary.addEventListener('load', ()=> setTimeout(()=>{ if(!ready()) injectFallback(); }, 0));
+        primary.addEventListener('error', injectFallback);
+      }
+      // 2) papildomas saugiklis po 3s
+      setTimeout(()=>{ if(!ready()) injectFallback(); }, 3000);
+    })();
+  </script>
+
+  <style>
+    :root{
+      --bg:#f3f3f3;
+      --panel-bg: rgba(255,255,255,.78); /* permatomas panelių fonas */
+      --panel-border: #e5e7eb;
+      --panel-shadow: 0 4px 16px rgba(0,0,0,.10);
+      --text:#0b0f14;
+    }
+    .dark{
+      --bg:#0b0f14;
+      --panel-bg: rgba(20,24,30,.72);
+      --panel-border: #1f2937;
+      --panel-shadow: 0 6px 24px rgba(0,0,0,.35);
+      --text:#e9edf2;
+    }
+
+    html,body{height:100%;margin:0;background:var(--bg);color:var(--text);font-family:Arial,system-ui,sans-serif}
+    model-viewer{width:100%;height:100%;background:transparent;--poster-color:transparent}
+
+    .toolbar{
+      position:fixed;top:10px;left:10px;display:flex;gap:8px;z-index:10;
+      background:var(--panel-bg);border:1px solid var(--panel-border);backdrop-filter: blur(6px);
+      border-radius:12px;padding:6px;box-shadow:var(--panel-shadow)
+    }
+    .btn{
+      background:transparent;border:1px solid var(--panel-border);border-radius:10px;
+      padding:6px 10px;cursor:pointer;font-size:14px;color:var(--text)
+    }
+    .btn:active{transform:translateY(1px)}
+    .dims{
+      position:fixed;left:10px;bottom:10px;z-index:10;display:none;
+      background:var(--panel-bg);border:1px solid var(--panel-border);backdrop-filter: blur(6px);
+      border-radius:10px;padding:6px 10px;box-shadow:var(--panel-shadow);font-size:14px;color:var(--text)
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Įrankių juosta -->
+  <div class="toolbar" role="toolbar" aria-label="3D valdikliai">
+    <button id="btnRotate" class="btn" aria-pressed="true">Sukti</button>
+    <button id="btnReset"  class="btn">Atstatyti</button>
+    <button id="btnZoomIn" class="btn" aria-label="Priartinti">+</button>
+    <button id="btnZoomOut" class="btn" aria-label="Atitolinti">–</button>
+    <button id="btnFull"   class="btn">Pilnas</button>
+    <button id="btnBg"     class="btn">Tamsus fonas</button>
+    <button id="btnShot"   class="btn">Ekrano kopija</button>
+  </div>
+
+  <!-- model-viewer: švarūs atributai, labai platus zoom diapazonas -->
+  <model-viewer id="mv"
+    src="/3dShow/stogine.glb"
+    alt="3D modelis"
+    camera-controls
+    auto-rotate
+    camera-orbit="30deg 70deg auto"
+    field-of-view="45deg"
+    min-field-of-view="5deg"  max-field-of-view="120deg"
+    min-camera-orbit="auto auto 0.005m" max-camera-orbit="auto auto 200000m"
+    tone-mapping="aces" exposure="1.15"
+    shadow-intensity="1.2" shadow-softness="0.9"
+    ground-plane="shadow"
+    interaction-prompt="none"
+    reveal="auto">
+  </model-viewer>
+
+  <div id="dims" class="dims" aria-live="polite"></div>
+
+  <script>
+  (function(){
+    const mv = document.getElementById('mv');
+    const dimsBox = document.getElementById('dims');
+
+    // ———————————————————————————————————
+    // 1) Klaidos GLB įkėlime
+    // ———————————————————————————————————
+    mv.addEventListener('error', e=>{
+      alert('Klaida įkeliant GLB: ' + (e?.detail?.message || e));
+      console.error(e);
+    });
+
+    // ———————————————————————————————————
+    // 2) Po sėkmingo įkėlimo: aplinka, medžiagos, UI, matmenys
+    // ———————————————————————————————————
+    mv.addEventListener('load', ()=>{
+      // Aplinka: paprastas „dangus“ kaip environment/skybox (LDR)
+      try {
+        const sky = (()=>{ const size=768, c=document.createElement('canvas'); c.width=c.height=size;
+          const g=c.getContext('2d'), grd=g.createLinearGradient(0,0,0,size);
+          grd.addColorStop(0,'#cfe4ff'); grd.addColorStop(0.55,'#e9f2ff');
+          grd.addColorStop(0.56,'#eeeeee'); grd.addColorStop(1,'#e5e5e5');
+          g.fillStyle=grd; g.fillRect(0,0,size,size);
+          const cx=size*0.78, cy=size*0.28, r1=size*0.05, r2=size*0.15;
+          const rg=g.createRadialGradient(cx,cy,0,cx,cy,r2);
+          rg.addColorStop(0,'rgba(255,255,255,.95)'); rg.addColorStop(0.4,'rgba(255,255,255,.35)');
+          rg.addColorStop(1,'rgba(255,255,255,0)'); g.fillStyle=rg; g.beginPath(); g.arc(cx,cy,r2,0,Math.PI*2); g.fill();
+          g.fillStyle='rgba(255,255,255,.9)'; g.beginPath(); g.arc(cx,cy,r1,0,Math.PI*2); g.fill();
+          return c.toDataURL('image/png'); })();
+        mv.environmentImage = sky;
+        mv.skyboxImage = sky;
+      } catch(_) {}
+
+      // Medžiagų „soften“: stiklas/ guma/ aliuminis – švelnesnis kontrastas
+      try {
+        const HEX = h=>{const m=h.replace('#',''); return [parseInt(m.slice(0,2),16)/255, parseInt(m.slice(2,4),16)/255, parseInt(m.slice(4,6),16)/255];};
+        const isGlass = n=>/glass|stik|poly|polycarb|panel|lexan|acry/i.test(n||'');
+        const isRubber= n=>/rubber|gasket|seal|tarpin|guma/i.test(n||'');
+        const ALU = HEX('#2f3b46'); const GLASS_TINT=[0.88,0.95,1.00];
+
+        if (mv.model?.materials) {
+          mv.model.materials.forEach(mat=>{
+            const name=(mat.name||'')+''; const p=mat.pbrMetallicRoughness; if(!p) return;
+            if (isGlass(name) || (p.baseColorFactor && p.baseColorFactor[3] < 0.999)) {
+              mat.setAlphaMode?.('BLEND'); mat.doubleSided = true;
+              p.setBaseColorFactor?.([GLASS_TINT[0],GLASS_TINT[1],GLASS_TINT[2],0.16]);
+              p.setRoughnessFactor?.(0.12); p.setMetallicFactor?.(0.0);
+              mat.setTransmissionFactor?.(0.9); mat.setIor?.(1.5); mat.setThicknessFactor?.(0.012);
+              mat.setAttenuationColor?.([0.80,0.90,1.00]); mat.setAttenuationDistance?.(1.2);
+            } else if (isRubber(name)) {
+              mat.setAlphaMode?.('OPAQUE'); mat.doubleSided = true;
+              p.setBaseColorFactor?.([0.12,0.12,0.12,1]); p.setMetallicFactor?.(0.0); p.setRoughnessFactor?.(0.82);
+            } else {
+              mat.setAlphaMode?.('OPAQUE'); mat.doubleSided = true;
+              p.setBaseColorFactor?.([ALU[0],ALU[1],ALU[2],1]); p.setMetallicFactor?.(0.9); p.setRoughnessFactor?.(0.34);
+              mat.setClearcoatFactor?.(0.1); mat.setClearcoatRoughness?.(0.45);
+            }
+          });
+        }
+      } catch(_) {}
+
+      // Valdikliai / UI
+      try {
+        const $ = id=>document.getElementById(id);
+        const root = document.documentElement;
+        let dark = false;
+
+        $('btnRotate').onclick = ()=>{
+          const on = mv.hasAttribute('auto-rotate');
+          if (on) mv.removeAttribute('auto-rotate'); else mv.setAttribute('auto-rotate','');
+          $('btnRotate').setAttribute('aria-pressed', String(!on));
+        };
+        $('btnReset').onclick = async ()=>{
+          mv.cameraOrbit='30deg 70deg auto'; mv.fieldOfView='45deg'; await mv.updateComplete;
+        };
+        $('btnFull').onclick = ()=>{ if(!document.fullscreenElement) mv.requestFullscreen?.(); else document.exitFullscreen?.(); };
+        $('btnBg').onclick = ()=>{
+          dark = !dark;
+          root.classList.toggle('dark', dark);
+          mv.exposure = dark ? 0.95 : 1.15;
+          $('btnBg').textContent = dark ? 'Šviesus fonas' : 'Tamsus fonas';
+        };
+        $('btnShot').onclick = async ()=>{
+          const blob = await mv.toBlob({mimeType:'image/png'});
+          const url  = URL.createObjectURL(blob);
+          const ts   = new Date().toISOString().replace(/[:.]/g,'-');
+          const a = Object.assign(document.createElement('a'), {href:url, download:`modelis-${ts}.png`});
+          document.body.appendChild(a); a.click(); a.remove(); URL.revokeObjectURL(url);
+        };
+
+        // Mygtukų zoom (FOV) — platesnis, bet ribojamas pagal min/max
+        const clamp=(v,min,max)=>Math.max(min,Math.min(max,v));
+        const parseDeg = v => Number(String(v).replace('deg','')) || 45;
+        $('btnZoomIn').onclick  = ()=>{ const f=parseDeg(mv.fieldOfView)-5; mv.fieldOfView = clamp(f,5,120)+'deg'; };
+        $('btnZoomOut').onclick = ()=>{ const f=parseDeg(mv.fieldOfView)+5; mv.fieldOfView = clamp(f,5,120)+'deg'; };
+
+        // **Pelės ratukas – AGRESYVUS zoom** (eng: wheel-driven FOV change)
+        // Patirtis: model-viewer neturi oficialaus "zoom speed", todėl valdome FOV patys.
+        mv.addEventListener('wheel', (e)=>{
+          // Jei nori palikti "pinch-to-zoom" per Ctrl, gali tikrinti e.ctrlKey.
+          e.preventDefault();
+          const delta = Math.sign(e.deltaY);
+          const cur = parseDeg(mv.fieldOfView);
+          // Greitis: Shift = greičiau, kitaip normaliai
+          const step = e.shiftKey ? 1.25 : 1.12; // multiplikatorius
+          const next = delta > 0 ? cur * step : cur / step;
+          const clamped = clamp(next, 5, 120);
+          mv.fieldOfView = clamped + 'deg';
+        }, {passive:false});
+      } catch(_) {}
+
+      // Matmenys: naudokim OFICIALIĄ API – getDimensions()
+      try {
+        const dims = mv.getDimensions?.();
+        if (dims && typeof dims.x === 'number') {
+          const W = dims.x.toFixed(3), H = dims.y.toFixed(3), D = dims.z.toFixed(3);
+          dimsBox.textContent = `Matmenys (m): W ${W} × H ${H} × D ${D}`;
+          dimsBox.style.display = 'block';
+        }
+      } catch(_) {}
+    });
+  })();
+  </script>
+</body>
+</html>
