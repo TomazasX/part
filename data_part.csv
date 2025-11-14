@@ -68,12 +68,12 @@ ALT.100.0301;Tiejinis vitrinai;m;"6.5;1";5,55;ALT.100.0301;"7016; 8017";678;Rėm
 244C;Dvipusė rankenėlė - su raktu (1vnt);vnt;1;22,8;244C;Juoda;229;Rėminė AL100;Double handle - fix;Frame AL100
 Lsi-05;Tarpinė ALT varčių rinkimui (4-5mm) 185m;vnt;"185;1";0,4;Lsi-05;Juoda;79;Rėminė AL100;Seal ALT assembly(4-5mm);Frame AL100
 Lsi-06;Tarpinė ALT varčių rinkimui 6mm) 200m;vnt;"200;1";0,44;Lsi-06;Juoda;78;Rėminė AL100;Seal ALT assembly(6mm);Frame AL100
-049GO 4;Užkišama vitrinai (4-5mm) 260m;vnt;"260;1";0,4;049GO 4;Juoda;72;Rėminė AL40;Seal ALT vitrine4-5mm);Frame AL40
-049GO 04;Užkišama vitrinai (6mm) 370m;vnt;"370;1";0,32;049GO 4;Juoda;50;Rėminė AL40;Seal ALT vitrine(6mm);Frame AL40
+049GO 4;Užkišama vitrinai (4-5mm) 260m;vnt;"260;1";0,375;049GO 4;Juoda;72;Rėminė AL40;Seal ALT vitrine4-5mm);Frame AL40
+049GO 04;Užkišama vitrinai (6mm) 370m;vnt;"370;1";0,28125;049GO 4;Juoda;50;Rėminė AL40;Seal ALT vitrine(6mm);Frame AL40
 049GO 42;Neriama ovalas vitrinai (4-5-6mm) 200m;vnt;"200;1";0,53;049GO 42;nesirenkama;37;Rėminė AL40;Seal circle ALT vitrine(4-5-6mm);Frame AL40
-C2201;VC65 kampinė jungtis(100vnt);vnt;"100;400;1";1,04;C2201;nesirenkama;49;Rėminė VC65;Conect angle VC65 with button;Frame VC65
-C2203;VC65  jungtis su knopke(1000K arba D / 500K arba D);vnt;"1000;500;1";1,28;C2203;nesirenkama;26;Rėminė VC65;Conect angle VC65(100psc);Frame VC65
-C2202;VC65 rankenos dangtelis(500vnt);vnt;"500;1000;1";0,39;C2202;Juodas;4;Rėminė VC65;Conect anglehandle VC65(500psc);Frame VC65
+C2201;VC65 kampinė jungtis(100vnt);vnt;"100;400;1";1,04;C2201;nesirenkama;49;Rėminė VC65;Conect angle VC65(100psc);Frame VC65
+C2203;VC65  fiksuojanti jungtis(100vnt);vnt;"100;600;1";1,28;C2203;nesirenkama;26;Rėminė VC65;Conect angle VC65 with button(100psc);Frame VC65
+C2202;VC65 rankenos dangtelis(D-500K arba K-500=1000K/D);vnt;"500;1000;1";0,39;C2202;Juodas;4;Rėminė VC65;Conect anglehandle VC65(1000K or D / 500K or D);Frame VC65
 DRD;Drenažų dangtelis vitrinai 40mm (50vnt);vnt;"50;1";0,18;DRD;Juodas;100;Rėminė AL40;Drenage cover(50psc);Frame AL40
 7228;"Viršutinis bėgelis ""3t""(7228)";m;"7;1";14,29;7228;"7016; 8017";1570;Berėmė;"Upper track ""3T""(7228)";Frameless
 7340;Viršutinis bėgelis +1(7340);m;"4.2;5.2;7";7,05;7340;"7016; 8017";770;Berėmė;Upper track+1(7340);Frameless
@@ -111,6 +111,7 @@ E111;Fiksatorius(E111)  (1vnt);vnt;1;11,1;E111;nesirenkama;39;Berėmė;Fiks(E111
 4832;Savisriegis 4.8x32;vnt;1;0,28;4825;nesirenkama;100;Varžtai;Screw;Screw
 4838;Savisriegis 4.8x38;vnt;1;0,32;4825;nesirenkama;100;Varžtai;Screw;Screw
 4845;Savisriegis 4.8x45;vnt;1;0,37;4832;nesirenkama;100;Varžtai;Screw;Screw
+C4,2x16-A2;Varžtas 4,2x16 NP (TORX);vnt;1;0,0375;C4,2x16-A2;nesirenkama;100;Varžtai;Screw;Screw
 C4,2x25-A2;Varžtas 4,2x25 NP (TORX);vnt;1;0,06;C4,2x25-A2;nesirenkama;5;Varžtai;Screw 4,2x25 SS;Screw
 C4,2x32-A2;Varžtas 4,2x32 NP (TORX);vnt;1;0,07;C4,2x25-A2;nesirenkama;5;Varžtai;Screw 4,2x25 SS;Screw
 C5,5x25-A2;Varžtas 5,5x25 NP (TORX);vnt;1;0,1;C4,2x25-A2;nesirenkama;5;Varžtai;Screw 4,2x25 SS;Screw
