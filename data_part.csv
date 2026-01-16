@@ -71,7 +71,7 @@ Lsi-06;Tarpinė ALT varčių rinkimui 6mm) 200m;vnt;"200;1";0,44;Lsi-06;Juoda;78
 049GO 4;Užkišama vitrinai (4-5mm) 260m;vnt;"260;1";0,375;049GO 4;Juoda;72;Rėminė AL40;Seal ALT vitrine4-5mm);Frame AL40
 049GO 04;Užkišama vitrinai (6mm) 370m;vnt;"370;1";0,28125;049GO 4;Juoda;50;Rėminė AL40;Seal ALT vitrine(6mm);Frame AL40
 049GO 42;Neriama ovalas vitrinai (4-5-6mm) 200m;vnt;"200;1";0,53;049GO 42;nesirenkama;37;Rėminė AL40;Seal circle ALT vitrine(4-5-6mm);Frame AL40
-C2201;VC65 kampinė jungtis(100vnt);vnt;"100;400;1";1,04;C2201;nesirenkama;49;Rėminė VC65;Conect angle VC65(100psc);Frame VC65
+C2201;VC65 kampinė jungtis(100vnt);vnt;"100;250;400;1";1,04;C2201;nesirenkama;49;Rėminė VC65;Conect angle VC65(100psc);Frame VC65
 C2203;VC65  fiksuojanti jungtis(100vnt);vnt;"100;600;1";1,28;C2203;nesirenkama;26;Rėminė VC65;Conect angle VC65 with button(100psc);Frame VC65
 C2202;VC65 rankenos dangtelis(D-500K arba K-500=1000K/D);vnt;"500;1000;1";0,39;C2202;Juodas;4;Rėminė VC65;Conect anglehandle VC65(1000K or D / 500K or D);Frame VC65
 DRD;Drenažų dangtelis vitrinai 40mm (50vnt);vnt;"50;1";0,18;DRD;Juodas;100;Rėminė AL40;Drenage cover(50psc);Frame AL40
