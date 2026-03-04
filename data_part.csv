@@ -6,12 +6,12 @@
 7427;Lietlovio (Giga-XS) dangtelis(7427);m;"7;1";15,41;7427;"7016; 8017";1690;Stoginė;"Cover ""Giga XS""(7337)";Roof;Profiliai
 7060;Prispaudėjo dangtelis(7060);m;"6;7;1";2,28;7060;"7016; 8017";250;Stoginė;Glass clamp cover(7060);Roof;Profiliai
 7061;Prispaudėjo šoninis dangtelis(7061);m;"4;7;1";3,65;7061;"7016; 8017";400;Stoginė;Glass clamp side cover(7061);Roof;Profiliai
-7494;"Gegnė ""ECO""(7494)";m;"6;1";16,39;7494;"7016; 8017";678;Stoginė;"Rafter ""ECO""(7494)";Roof;Profiliai
-7495;"Gegnė šoninė ""ECO""(7495)";m;"6;1";15,31;7495;"7016; 8017";678;Stoginė;"Rafter side ""ECO""(7495)";Roof;Profiliai
-7057;"Gegnė ""STANDART""(7057)";m;"7;1";20,21;7057;"7016; 8017";678;Stoginė;"Rafter ""STANDART""(7057)";Roof;Profiliai
-7058;"Gegnė šoninė ""STANDART""(7058)";m;"7;1";23,71;7058;"7016; 8017";678;Stoginė;"Rafter side ""STANDART""(7058)";Roof;Profiliai
-7055;"Gegnė ""PREMIUM""(7055)";m;"4;5;6;1";31,62;7055;"7016; 8017";346;Stoginė;"Rafter ""PREMIUM""(7055)";Roof;Profiliai
-7056;"Gegnė šoninė ""PREMIUM""(7056)";m;"4;5;1";34,77;7056;"7016; 8017";346;Stoginė;"Rafter side ""PREMIUM""(7056)";Roof;Profiliai
+7494;"Gegnė ""ECO""(7494)";m;"6;1";16,39;7494;"7016; 8017";1800;Stoginė;"Rafter ""ECO""(7494)";Roof;Profiliai
+7495;"Gegnė šoninė ""ECO""(7495)";m;"6;1";15,31;7495;"7016; 8017";1680;Stoginė;"Rafter side ""ECO""(7495)";Roof;Profiliai
+7057;"Gegnė ""STANDART""(7057)";m;"7;1";20,21;7057;"7016; 8017";2210;Stoginė;"Rafter ""STANDART""(7057)";Roof;Profiliai
+7058;"Gegnė šoninė ""STANDART""(7058)";m;"7;1";23,71;7058;"7016; 8017";2600;Stoginė;"Rafter side ""STANDART""(7058)";Roof;Profiliai
+7055;"Gegnė ""PREMIUM""(7055)";m;"4;5;6;1";31,62;7055;"7016; 8017";3460;Stoginė;"Rafter ""PREMIUM""(7055)";Roof;Profiliai
+7056;"Gegnė šoninė ""PREMIUM""(7056)";m;"4;5;1";34,77;7056;"7016; 8017";3810;Stoginė;"Rafter side ""PREMIUM""(7056)";Roof;Profiliai
 1102;"Gegnė ""RYGEL""(1102)";m;"6.8;1";30;1102;"7016; 8017";1590;Stoginė;"Rafter ""RYGEL"" 1102";Roof;Profiliai
 5688;"Atrama ""100x100"" (5688)";m;"5;7;1";19,33;5688;"7016; 8017";2200;Stoginė;"Post ""100x100""(5688)";Roof;Profiliai
 7341;"Atrama ""120x120"" (7341)";m;"5;7;1";25,57;7341;"7016; 8017";2800;Stoginė;"Post ""120x120""(7341)";Roof;Profiliai
@@ -25,7 +25,7 @@ E300;"Guma ""PRI"" (E300) 45m";m;"45;1;1";2,4;E300;Black;373;Stoginė;"Seal ""PR
 E301;"Guma ""SIENINĖ"" (E301) 50m";m;"50;1";2;E301;Black;325;Stoginė;"Seal ""WALL""(E301)";Roof;Gumos
 E302;"Guma gegnei ""plona"" (E302) 230m";m;"230;1";0,48;E302;Black;74;Stoginė;"Seal rafter ""SMALL""(E302) 230m";Roof;Gumos
 E303;"Guma gegnei ""stora"" (E303) 160m";m;"160;1";0,7;E303;Black;109;Stoginė;"Seal rafter ""BIG""(E303) 160m";Roof;Gumos
-E305;"Dangtelis varžtu ""E305"" 500vnt";vnt;"500;1";0,12;E305;Black;0.2;Stoginė;"Cover screw""E305"" 100psc";Roof;Detales
+E305;"Dangtelis varžtu ""E305"" 500vnt";vnt;"500;1";0,12;E305;Black;1;Stoginė;"Cover screw""E305"" 100psc";Roof;Detales
 E304;"Gegnės tvirtinimo kampukas ""NP""";vnt;500,1;0,44;E304;nesirenkama;23;Stoginė;Rafter angle SS;Roof;Detales
 E306;Lapų gaudyklė (1vnt);vnt;"50;1";9,48;E306;nesirenkama;84;Stoginė;Leaf catcher;Roof;Detales
 E307;PVC vamzdis D80mm, 3m (RAL8017)(1vnt);vnt;3;6,85;E307;"8017; 8017";586;Stoginė;PVC pipe D80mm, 3m;Roof;Detales
@@ -36,7 +36,7 @@ E309r;"Šoninis dangtelis ""SIENA"" (E309)(1vnt)";vnt;1;3,7;E309;"7016; 8017";58
 E310;"Šoninis dangtelis ovalus""GIGA""(E310)(1vnt)";vnt;1;10,04;E310;"7016; 8017";349;Stoginė;"Side cover round""GIGA""(E310)";Roof;Detales
 E311;"Šoninis dangtelis ""ECO XS""(E311)(1vnt)";vnt;1;4,14;E311;"7016; 8017";130;Stoginė;"Side cover ""ECO""(E311)";Roof;Detales
 E312;"Šoninis dangtelis""Giga XS""(E312)(1vnt)";vnt;1;7,08;E312;"7016; 8017";194;Stoginė;"Side cover""XS""(E312)";Roof;Detales
-KPS90;Stiklo stabdis;vnt;1;2,5;KPS90;nesirenkama;5;Stoginė;Galss stoper;Roof;Detales
+KPS90;Stiklo stabdis;vnt;1;2,5;KPS90;nesirenkama;30;Stoginė;Galss stoper;Roof;Detales
 ALT.100.0101;"Staktos šonas 60mm ""2T""";m;"7;1";5,5;ALT.100.0101;"7016; 8017";600;Rėminė AL100;"Wall ""2""";Frame AL100;Profiliai
 ALT.100.0102;"Staktos viršus ""2 T""";m;"6.5;1";5,91;ALT.100.0102;"7016; 8017";650;Rėminė AL100;"Upper track ""2T""";Frame AL100;Profiliai
 ALT.100.0103;"Staktos apačia ""2 T""";m;"6.5;1";6,75;ALT.100.0103;"7016; 8017";740;Rėminė AL100;"Down track ""2T""";Frame AL100;Profiliai
@@ -56,7 +56,7 @@ ALT.100.0501;"Susidurimas ""H""";m;"6.8;1";3,22;ALT.100.0501;"7016; 8017";220;R�
 VC65.0404;"Susidurimas - H  ""VC65""";m;"6.8;1";3,2;VC65.0404;"7016; 8017";220;Rėminė VC65;"Profile"" H"" ""VC65""";Frame VC65;Profiliai
 ALT.100.0105;Vitrina 40mm;m;"6.5;1";4,75;ALT.100.0105;"7016; 8017";520;Rėminė AL40;"Frame vitrine ""40mm""";Frame AL40;Profiliai
 ALT.100.0602;"40mm vitrinos stiklajuostė ""CLICK"" 4-6mm";m;"6.5;1";1,6;ALT.100.0602;"7016; 8017";180;Rėminė AL40;"40mm vitrine cover ""CLICK"" 4-6mm";Frame AL40;Profiliai
-ALT.100.0603;"40mm vitrinos stiklajuostė ""CLICK"" 16mm";m;"6.5;1";2,24;ALT.100.0603;"7016; 8017";0;Rėminė AL40;"40mm vitrine cover ""CLICK"" 16mm";Frame AL40;Profiliai
+ALT.100.0603;"40mm vitrinos stiklajuostė ""CLICK"" 16mm";m;"6.5;1";2,24;ALT.100.0603;"7016; 8017";172;Rėminė AL40;"40mm vitrine cover ""CLICK"" 16mm";Frame AL40;Profiliai
 ALT.100.0301;Tiejinis vitrinai;m;"6.5;1";5,55;ALT.100.0301;"7016; 8017";678;Rėminė AL40;T vitrine profile;Frame AL40;Profiliai
 049ES 08;kampinė jungtis 40mm (70vnt);vnt;"70;490;1";0,58;049ES 08;nesirenkama;35;Rėminė AL40;"Angle conect 40mm ""ALT""";Frame AL40;Detales
 9ES110;kampinė jungtis 60mm ;vnt;1;1,09;9ES110;nesirenkama;100;Rėminė AL60;"Angle conect 40mm ""ALT""";Frame AL60;Detales
@@ -102,9 +102,9 @@ E111;Fiksatorius(E111)  (1vnt);vnt;1;11,1;E111;nesirenkama;39;Berėmė;Fiks(E111
 379777;AL Stiklajuostė;m;7;5,5;379777;nesirenkama;530;Turėklas;Al Glazing Bead;Handrail;Profiliai
 379739;Užkišama tarpinė;m;"300;1";0,78;379739;nesirenkama;100;Turėklas;Insert Gasket;Handrail;Gumos
 372901;Neriama tarpinė;m;"400;1";0,6;372901;nesirenkama;100;Turėklas;Push-in Gasket;Handrail;Gumos
-379412;Np kniedė( 4x12 );vnt;1;0,5;379412;nesirenkama;0,1;Turėklas;NP rivet (4x12);Handrail;Detales
-373925;NP savisriegis (3,9x25);vnt;1;0,23;373925;nesirenkama;0,2;Turėklas;NP self-tapping screw (3.9x25);Handrail;Detales
-379778;Tvirtinimo varžtas;vnt;1;1,75;379778;nesirenkama;0,3;Turėklas;Fixing bolt;Handrail;Detales
+379412;Np kniedė( 4x12 );vnt;1;0,5;379412;nesirenkama;1;Turėklas;NP rivet (4x12);Handrail;Detales
+373925;NP savisriegis (3,9x25);vnt;1;0,23;373925;nesirenkama;1;Turėklas;NP self-tapping screw (3.9x25);Handrail;Detales
+379778;Tvirtinimo varžtas;vnt;1;1,75;379778;nesirenkama;1;Turėklas;Fixing bolt;Handrail;Detales
 379779;Atraminė koja;vnt;1;18,75;379779;nesirenkama;5000;Turėklas;Support leg;Handrail;Detales
 12360;Varžtas sieniniui 12x360;vnt;1;2,5;12360;nesirenkama;100;Varžtai;Screw;Screw;Detales
 4825;Savisriegis 4.8x25;vnt;1;0,2;4825;nesirenkama;100;Varžtai;Screw;Screw;Detales
@@ -125,4 +125,3 @@ but;Butilo juosta 45mmx10m-al(10m);vnt;"10;1";8,75;but;nesirenkama;100;kita;Buty
 Grez6;6 metrų gręžimas su prispaudimo sistema 7059;vnt;1;7,5;Grez;nesirenkama;0;kita;6-meter drilling with a clamping system(7059);Other;Detales
 Grez7;7 metrų gręžimas su prispaudimo sistema 7059;vnt;1;8,75;Grez;nesirenkama;0;kita;7-meter drilling with a clamping system(7059);Other;Detales
 PAK;Pakavimas;vnt;1;187,5;PAK;nesirenkama;100000;kita;Packing;Other;Detales
-;;;;1176,16375;;;177049,6;;;;
