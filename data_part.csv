@@ -28,8 +28,8 @@ E303;"Guma gegnei ""stora"" (E303) 160m";m;"160;1";0,7;E303;Black;109;Stoginė;"
 E305;"Dangtelis varžtu ""E305"" 500vnt";vnt;"500;1";0,12;E305;Black;1;Stoginė;"Cover screw""E305"" 100psc";Roof;Detales
 E304;"Gegnės tvirtinimo kampukas ""NP""";vnt;500,1;0,44;E304;nesirenkama;23;Stoginė;Rafter angle SS;Roof;Detales
 E306;Lapų gaudyklė (1vnt);vnt;"50;1";9,74;E306;nesirenkama;84;Stoginė;Leaf catcher;Roof;Detales
-E307;PVC vamzdis D80mm, 3m (RAL8017)(1vnt);vnt;3;20,54;E307;"8017; 8017";586;Stoginė;PVC pipe D80mm, 3m;Roof;Detales
-E307a;PVC vamzdis D80mm, 2,8m (RAL7016)(1vnt);vnt;2.8;20,54;E307;"7016; 7016";586;Stoginė;PVC pipe D80mm, 3m;Roof;Detales
+E307;PVC vamzdis D80mm, 3m (RAL8017)(1vnt);vnt;1;20,54;E307;"8017; 8017";586;Stoginė;PVC pipe D80mm, 3m;Roof;Detales
+E307a;PVC vamzdis D80mm, 2,8m (RAL7016)(1vnt);vnt;1;20,54;E307;"7016; 7016";586;Stoginė;PVC pipe D80mm, 3m;Roof;Detales
 E308r;PVC alkūnė D80mm(1vnt) Ruda 90 laipsniu;vnt;1;9,3;E308;"8017; 8017";119;Stoginė;PVC angle D80mm degrees 90;Roof;Detales
 E308p;PVC alkūnė D80mm(1vnt)Pilka 70  laipsniu;vnt;1;9,3;E308;"7016; 7016";119;Stoginė;PVC angle D80mm  degrees 70;Roof;Detales
 E309r;"Šoninis dangtelis ""SIENA"" (E309)(1vnt)";vnt;1;3,7;E309;"7016; 8017";58;Stoginė;"Wall  side cover""WALL""(E309)";Roof;Detales
